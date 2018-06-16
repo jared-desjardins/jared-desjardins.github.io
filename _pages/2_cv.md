@@ -44,6 +44,9 @@ img: /2.0/img/cv.png
 |Doctoral Fellowship||2014|
 |<sup>Department of Linguistics, University of Colorado</sup>|||
 ||||
+|Golden Key International Honour Society||2014|
+|<sup>University of Colorado</sup>|||
+||||
 |Linguistic Institute Fellowship||2013|
 |<sup>Department of Linguistics, University of Colorado</sup>|||
 ||||
