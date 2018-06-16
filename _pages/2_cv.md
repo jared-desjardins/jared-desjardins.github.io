@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CV
-description: a project with a background image
+title: cv
+description: null
 img: /2.0/img/cv.png
 ---
