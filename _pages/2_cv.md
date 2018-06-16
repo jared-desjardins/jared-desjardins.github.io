@@ -9,7 +9,7 @@ img: /2.0/img/cv.png
 
 <br>
 
-<h4>education</h4>
+<h3>Education</h3>
 
 ||||
 |---|---|---|
