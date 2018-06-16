@@ -16,6 +16,7 @@ img: /2.0/img/chalkboard-sq.png
 </p>
 
 <br>
+
 ***
 <br>
 
@@ -26,6 +27,7 @@ img: /2.0/img/chalkboard-sq.png
 </p>
 
 <br>
+
 ***
 <br>
 
@@ -37,6 +39,7 @@ img: /2.0/img/chalkboard-sq.png
 </p>
 
 <br>
+
 ***
 <br>
 
@@ -48,6 +51,7 @@ img: /2.0/img/chalkboard-sq.png
 </p>
 
 <br>
+
 ***
 <br>
 
@@ -59,6 +63,7 @@ img: /2.0/img/chalkboard-sq.png
 </p>
 
 <br>
+
 ***
 <br>
 
