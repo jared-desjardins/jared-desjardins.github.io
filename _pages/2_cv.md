@@ -9,6 +9,7 @@ img: /2.0/img/cv.png
 
 <br>
 
+<h2>education</h2>
 ||||
 |---|---|---|
 |PhD in Linguistics||2019|
