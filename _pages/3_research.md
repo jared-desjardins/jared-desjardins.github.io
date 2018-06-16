@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research
-description: a project with a background image
+title: research
+description: null
 img: /2.0/img/books.jpeg
 ---
