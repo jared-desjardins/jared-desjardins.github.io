@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Contact
-description: a project with a background image
+title: contact
+description: null
 img: /2.0/img/contact.jpg
 ---
