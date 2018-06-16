@@ -6,7 +6,6 @@ img: /2.0/img/chalkboard-sq.png
 ---
 
 ***
-<br>
 
 <h4>LING 4420 Morphology and Syntax</h4>
 <sup>Instructor of Record | Spring 2018, Fall 2018</sup>
