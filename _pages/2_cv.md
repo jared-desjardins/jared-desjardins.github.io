@@ -9,7 +9,7 @@ img: /2.0/img/cv.png
 
 <br>
 
-|<h3>Education</h3>|||
+|**Education**|||
 |---|---|---|
 ||||
 |PhD in Linguistics||2019|
@@ -25,7 +25,7 @@ img: /2.0/img/cv.png
 |BA in Linguistics||2012|
 |<sup>Insitute of Linguistics, University of Minnesota</sup>|||
 ||||
-|<h3>Honors and Awards</h3>|||
+|**Honors and Awards**|||
 ||||
 |Best Should Teach Silver Award||2017|
 |<sup>Graduate Teacher Program, University of Colorado</sup>|||
