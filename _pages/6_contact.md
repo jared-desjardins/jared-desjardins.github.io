@@ -10,21 +10,21 @@ img: /2.0/img/contact.jpg
 <br>
 
 <form>
-	<div class="row half collapse-at-2">
-		<div class="6u">
+	<div>
+		<div>
 			<input type="text" name="name" id="name" placeholder="Name" />
 		</div>
-		<div class="6u">
+		<div>
 			<input type="email" name="email" id="email" placeholder="Email" />
 		</div>
 	</div>
-	<div class="row half">
-		<div class="12u">
+	<div>
+		<div>
 			<textarea name="message" id="message" placeholder="Message" rows="5"></textarea>
 		</div>
 	</div>
-	<div class="row half">
-		<div class="12u">
+	<div>
+		<div>
 			<ul class="actions">
 				<li><input type="submit" class="button alt" value="Send Message" /></li>
 			</ul>
