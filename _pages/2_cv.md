@@ -11,6 +11,7 @@ img: /2.0/img/cv.png
 
 |<h3>Education</h3>|||
 |---|---|---|
+||||
 |PhD in Linguistics||2019|
 |<sup>Department of Linguistics, University of Colorado</sup>|||
 |Graduate Certificate in Digital Humanities||2019|
