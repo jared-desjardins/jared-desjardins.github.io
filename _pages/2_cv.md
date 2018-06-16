@@ -24,12 +24,9 @@ img: /2.0/img/cv.png
 |<sup>Department of Linguistics, University of Michigan; Linguistic Society of America</sup>|||
 |BA in Linguistics||2012|
 |<sup>Insitute of Linguistics, University of Minnesota</sup>|||
-
-<br>
-<h3>Honors and Awards</h3>
-
 ||||
-|---|---|---|
+|<h3>Honors and Awards</h3>|||
+||||
 |Best Should Teach Silver Award||2017|
 |<sup>Graduate Teacher Program, University of Colorado</sup>|||
 |Pre-doctoral Trainee Fellowship||2017|
