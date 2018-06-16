@@ -25,7 +25,7 @@ collections:
   #poetry:
     #output: true
     #permalink: /poetry/:path/
-  page:
+  pages:
     output: true
-    permalink: /page/:path/
+    permalink: /pages/:path/
 
