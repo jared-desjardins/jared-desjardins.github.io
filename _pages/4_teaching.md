@@ -14,7 +14,7 @@ img: /2.0/img/chalkboard-sq.png
 <br>
 
 <h4>LING 1020 Languages of the World</h4>
-<sup>Instructor of Record | Spring 2015-2017, Fall 2015-2016</sup>
+<sup>Instructor of Record | Spring 2015-2017, Fall 2015-2016</sup>  
 
 ***
 <br>
