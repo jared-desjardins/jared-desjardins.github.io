@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About
-description: a project with a background image
+title: about
+description: null
 img: /2.0/img/12.jpg
 ---
