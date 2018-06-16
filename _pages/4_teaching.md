@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Teaching
-description: a project with a background image
+title: teaching
+description: null
 img: /2.0/img/chalkboard-sq.png
 ---
