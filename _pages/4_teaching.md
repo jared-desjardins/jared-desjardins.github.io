@@ -22,6 +22,7 @@ img: /2.0/img/chalkboard-sq.png
 
 <img class="col one right" src="/2.0/img/prof_pic.jpg">
 
+<p class="col two left">
 <h4>LING 1020 Languages of the World</h4>
 <sup>Instructor of Record | Spring 2015-2017, Fall 2015-2016</sup>
 </p>
