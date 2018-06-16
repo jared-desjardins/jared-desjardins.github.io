@@ -8,9 +8,8 @@ img: /2.0/img/cv.png
 ***
 
 <br>
-<h3>Education</h3>
 
-||||
+|<h3>Education</h3>|||
 |---|---|---|
 |PhD in Linguistics||2019|
 |<sup>Department of Linguistics, University of Colorado</sup>|||
