@@ -9,7 +9,7 @@ img: /2.0/img/chalkboard-sq.png
 
 <br>
 
-<img class="col one right" src="/img/prof_pic.jpg">
+<img class="col one right" src="/2.0/img/prof_pic.jpg">
 
 <br/>
 
