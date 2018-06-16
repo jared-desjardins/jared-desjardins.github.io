@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Music
-description: a project with a background image
+title: music
+description: null
 img: /2.0/img/music.jpeg
 ---
