@@ -1,12 +1,12 @@
 # Site settings
 title: Jared Desjardins
-email: you@example.com
+email: jared.desjardins@colorado.edu
 description: > # this means to ignore newlines until "baseurl:"
   A simple, whitespace, helvetica based portfolio theme.
 baseurl:  # the subpath of your site, e.g. /blog/
-url: http://jared-desjardins.github.io/2.0 # the base hostname & protocol for your site
-twitter_username: twitter_username
-github_username:  github_username
+url: http://jared-desjardins.github.io/ # the base hostname & protocol for your site
+# twitter_username: twitter_username
+# github_username:  github_username
 
 # Build settings
 markdown: kramdown
