@@ -15,3 +15,5 @@ img: /2.0/img/contact.jpg
 	<!-- <a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a> -->
 	<!-- <a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a> -->
 </span>
+
+<a href="https://www.researchgate.com/jareddesjardins" target="_blank"><i class="fa fa-researchgat-square"></i></a>
