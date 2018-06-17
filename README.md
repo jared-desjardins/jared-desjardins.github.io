@@ -1,4 +1,4 @@
-# A personal yet professional website for Jared
+# A personal yet professional website for Jared.
 A simple theme showcasing my academic (and non-academic) work, with an emphasis on whitespace, transparency, and helvetica. I may or may not update this README file further.
 
 <a href="http://liabogoev.com/-folio">Original *folio Live Demo</a>
