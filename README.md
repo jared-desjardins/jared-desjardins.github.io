@@ -4,6 +4,8 @@ A simple theme for showcasing your work, emphasis on whitespace, transparency, a
 
 <a href="http://liabogoev.com/-folio">Live Demo</a>
 
+<a href="https://github.com/bogoli/-folio">Original Repository</a>
+
 <hr/>
 
 
