@@ -9,4 +9,4 @@ img: /2.0/img/cv.png
 
 <br>
 
-<center><embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://jared-desjardins.github.io/2.0/files/desjardins-cv-2018.pdf" width="600" height="375"></center>
+<center><embed src="https://drive.google.com/viewerng/viewer?embedded=true&url=http://jared-desjardins.github.io/2.0/files/desjardins-cv-2018.pdf" width="700" height="300"></center>
