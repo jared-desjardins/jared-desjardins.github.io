@@ -7,7 +7,7 @@ img: /img/contact.jpg
 
 ***
 
-<link rel="stylesheet" href="http://jared-desjardins.github.io/css/academicons.min.css"/>
+<link rel="stylesheet" href="http://jared-desjardins.github.io/css/academicons.min.css">
 
 <br>
 
