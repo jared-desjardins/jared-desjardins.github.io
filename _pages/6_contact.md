@@ -6,9 +6,10 @@ img: /img/contact.jpg
 ---
 
 ***
-<br>
 
-<head><link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous"></head>
+<link rel="stylesheet" href="/path/to/folder/css/academicons.min.css"/>
+
+<br>
 
 <span class="contacticon center">
 	<a href="mailto:jared.desjardins@colorado.edu"><i class="fa fa-envelope"></i></a>
