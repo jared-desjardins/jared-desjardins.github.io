@@ -13,7 +13,7 @@ img: /img/contact.jpg
 <br>
 
 <span class="contacticon center">
-	<a href="mailto:jared.desjardins@colorado.edu" title="Email"><i class="fa fa-envelope"></i></a>
+	<a href="mailto:jared.desjardins@colorado.edu" title="Email"><i class="fa fa-envelope-square"></i></a>
 </span>
 
 <span class="contacticon center">
@@ -21,6 +21,6 @@ img: /img/contact.jpg
 </span>
 
 <span class="contacticon center">
-	<a href="http://www.researchgate.net/profile/Jared_Desjardins" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
+	<a href="http://www.researchgate.net/profile/Jared_Desjardins" title="ResearchGate"><i class="ai ai-researchgate-square"></i></a>
 	<!-- <a href="http://github.com/jared-desjardins" title="GitHub"><i class="fa fa-github-square"></i></a> -->
 </span>
