@@ -12,9 +12,9 @@ img: /img/contact.jpg
 <br>
 
 <span class="contacticon center">
-	<a href="mailto:jared.desjardins@colorado.edu"><i class="fa fa-envelope"></i></a>
+	<a href="mailto:jared.desjardins@colorado.edu"><i class="fa fa-envelope-square"></i></a>
 	<a href="http://www.researchgate.net/profile/Jared_Desjardins"><i class="fab fa-researchgate"></i></a>
-	<a href="http://www.linkedin.com/in/jareddesjardins/"><i class="fa fa-linkedin-in"></i></a>
+	<a href="http://www.linkedin.com/in/jareddesjardins/"><i class="fa fa-linkedin-square"></i></a>
 	<!-- <a href="https://github.com" target="_blank"><i class="fa fa-github-square"></i></a> -->
 	<!-- <a href="http://tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a> -->
 	<!-- <a href="https://twitter.com" target="_blank"><i class="fa fa-twitter-square"></i></a> -->
