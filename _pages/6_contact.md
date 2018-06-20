@@ -17,7 +17,7 @@ img: /img/contact.jpg
 </span>
 
 <span class="contacticon center">
-	<a href="http://www.linkedin.com/in/jareddesjardins/" title="LinkedIn" target="_blank"><i class="fa fa-linkedin"></i></a>
 	<a href="http://www.researchgate.net/profile/Jared_Desjardins" title="ResearchGate"><i class="ai ai-researchgate"></i></a>
+	<a href="http://www.linkedin.com/in/jareddesjardins/" title="LinkedIn" target="_blank"><i class="fa fa-linkedin"></i></a>
 	<!-- <a href="http://github.com/jared-desjardins" title="GitHub"><i class="fa fa-github-square"></i></a> -->
 </span>
