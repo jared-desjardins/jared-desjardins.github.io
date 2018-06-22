@@ -12,6 +12,6 @@ This page is currently under construction - meanwhile, feel free to visit [**my 
 <br>
 
 <audio controls>
-  <source src="jared-desjardins.github.io/music/prelude.mp3" type="audio/mpeg">
+  <source src="http://jared-desjardins.github.io/music/prelude.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio>
