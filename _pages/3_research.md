@@ -16,13 +16,13 @@ For more information, please look through my [**current**](#current) and [**past
 <h4>Current Research Projects</h4>  
 <br>
 A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Nature of the Morphology-Syntax Interface  
-<sup>2016 - *present* | [**more information**](http://jared-desjardins.github.io/LI/)</sup>
+<sup>2016 - *present* | [**more information**](http://jared-desjardins.github.io/LI/)</sup>  
 <br>
 Exploring Object Control in English Caused-Motion and Infinitival Control Constructions  
-<sup>2017 - *present* | **information coming soon**</sup>
+<sup>2017 - *present* | **information coming soon**</sup>  
 <br>
 A Corpus-based Linguistic Analysis of Latin Frequentative Verbs  
-<sup>2014 - *present* | **information coming soon**</sup>
+<sup>2014 - *present* | **information coming soon**</sup>  
 <br>
 
 ***
