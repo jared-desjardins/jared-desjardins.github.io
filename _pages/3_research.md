@@ -7,7 +7,7 @@ img: /img/books.jpeg
 
 ***
 <br>
-For more information, please look through my [**current**](#current) and **past** research projects below, as well as (what I consider to be) **interesting topics** I've explored throughout my undergraduate and early graduate linguistics programs.
+For more information, please look through my [**current**](#current) and [**past**](#past) research projects below, as well as (what I consider to be) [**interesting topics**](#termpapers) I've explored throughout my undergraduate and early graduate linguistics programs.
 <br>
 
 ***
