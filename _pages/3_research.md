@@ -36,21 +36,30 @@ Non-visible Gesturing in Telephone Conversation
 <br>
 ***
 Transitivity, Grammatical Relations, and Pronominal Argument Complementation in Moba
+
 ***
 A Pilot Study of an Averaged Perceptron Part-of-Speech Tagger for Latin Raw Text
+
 ***
 The Role of Phoneme Distribution and Entropy in Predicting Utterance and Morpheme Segmentation
+
 ***
 The Effects of Frequency and Syntax on Semantic Shift (Pilot Study)
+
 ***
 An Error Analysis of Automatically Parsed Constructions in the [Groningen Meaning Bank](http://gmb.let.rug.nl/)
+
 ***
 Frequency and semantic change
+
 ***
 Deictic, Prosodic, and Syntactic Organization of a Temporal Sequence in Interaction
+
 ***
 A Syntactic Account of Latin Verb Conjugation
+
 ***
 Optimality Theory, the Moraic Torchee, and Latin Primary Stress
+
 ***
 Inclusive and Exclusive Disjunction, and Latin *vel* and *aut*
