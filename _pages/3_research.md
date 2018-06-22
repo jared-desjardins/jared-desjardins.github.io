@@ -1,7 +1,7 @@
 ---
 layout: post
 title: research
-description: This is a test description
+description: null
 img: /img/books.jpeg
 ---
 
@@ -34,22 +34,22 @@ Non-visible Gesturing in Telephone Conversation
 <a name="termpapers"></a>
 <h4>Past Term Papers</h4>
 <br>
-Transitivity, Grammatical Relations, and Pronominal Argument Complementation in Moba
+Transitivity, Grammatical Relations, and Pronominal Argument Complementation in Moba  
 <br>
-A Pilot Study of an Averaged Perceptron Part-of-Speech Tagger for Latin Raw Text
+A Pilot Study of an Averaged Perceptron Part-of-Speech Tagger for Latin Raw Text  
 <br>
-The Role of Phoneme Distribution and Entropy in Predicting Utterance and Morpheme Segmentation
+The Role of Phoneme Distribution and Entropy in Predicting Utterance and Morpheme Segmentation  
 <br>
-The Effects of Frequency and Syntax on Semantic Shift (Pilot Study)
+The Effects of Frequency and Syntax on Semantic Shift (Pilot Study)  
 <br>
-An Error Analysis of Automatically Parsed Constructions in the [Groningen Meaning Bank](http://gmb.let.rug.nl/)
+An Error Analysis of Automatically Parsed Constructions in the [Groningen Meaning Bank](http://gmb.let.rug.nl/)  
 <br>
-Frequency and semantic change
+Frequency and semantic change  
 <br>
-Deictic, Prosodic, and Syntactic Organization of a Temporal Sequence in Interaction
+Deictic, Prosodic, and Syntactic Organization of a Temporal Sequence in Interaction  
 <br>
-A Syntactic Account of Latin Verb Conjugation
+A Syntactic Account of Latin Verb Conjugation  
 <br>
-Optimality Theory, the Moraic Torchee, and Latin Primary Stress
+Optimality Theory, the Moraic Torchee, and Latin Primary Stress  
 <br>
-Inclusive and Exclusive Disjunction, and Latin *vel* and *aut*
+Inclusive and Exclusive Disjunction, and Latin *vel* and *aut*  
