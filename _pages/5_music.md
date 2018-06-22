@@ -11,7 +11,6 @@ This page is currently under construction - meanwhile, feel free to visit [**my 
 
 <br>
 
-
 ***
 <sub></sub>
 <h4>Prelude in C Minor</h4>
@@ -21,8 +20,6 @@ This page is currently under construction - meanwhile, feel free to visit [**my 
 Your browser unfortunately does not support the audio element.
 </audio>
 
-***
-<sub></sub>
 <h4>Nocturne in E Minor</h4>
 <sup>Opus 1 | 2014</sup>  
 <audio controls>
@@ -30,8 +27,6 @@ Your browser unfortunately does not support the audio element.
 Your browser unfortunately does not support the audio element.
 </audio>
 
-***
-<sub></sub>
 <h4>Fantaisie in C Minor</h4>
 <sup>Opus 1 | 2014</sup>  
 <audio controls>
