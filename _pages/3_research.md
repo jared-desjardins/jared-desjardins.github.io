@@ -6,11 +6,6 @@ img: /img/books.jpeg
 ---
 
 ***
-<br>
-For more information, please look through my [**current**](#current) and [**past**](#past) research projects below, as well as (what I consider to be) [**interesting topics**](#termpapers) I've explored throughout my undergraduate and early graduate linguistics programs.
-<br>
-
-***
 <sub></sub>
 <a name="current"></a>
 <h4>Current Research Projects</h4>  
@@ -38,6 +33,7 @@ Non-visible Gesturing in Telephone Conversation
 <sub></sub>
 <a name="termpapers"></a>
 <h4>Past Term Papers</h4>  
+<br>
 * Transitivity, Grammatical Relations, and Pronominal Argument Complementation in Moba
 * A Pilot Study of an Averaged Perceptron Part-of-Speech Tagger for Latin Raw Text
 * The Role of Phoneme Distribution and Entropy in Predicting Utterance and Morpheme Segmentation
