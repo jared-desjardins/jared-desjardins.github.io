@@ -12,24 +12,30 @@ For more information, please look through my [**current**](#current) and [**past
 
 ***
 <sub></sub>
-<h4><a name="current">Current Research Projects</a></h4>  
+<a name="current"></a>
+<h4>Current Research Projects</h4>  
 <br>
 A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Nature of the Morphology-Syntax Interface  
 <sup>2016 - *present* | [**more information**](http://jared-desjardins.github.io/LI/)</sup>
 <br>
-<h4>Exploring Object Control in English Caused-Motion and Infinitival Control Constructions</h4>  
+Exploring Object Control in English Caused-Motion and Infinitival Control Constructions  
+<sup>2017 - *present* | **information coming soon**</sup>
 <br>
-<h4>A Corpus-based Linguistic Analysis of Latin Frequentative Verbs</h4>  
-<br>
-
-***
-<sub></sub>
-<h3><a name="past">Past Research Projects</a></h3>  
-<br>
-<h4>Non-visible Gesturing in Telephone Conversation</h4>  
+A Corpus-based Linguistic Analysis of Latin Frequentative Verbs  
+<sup>2014 - *present* | **information coming soon**</sup>
 <br>
 
 ***
 <sub></sub>
-<h3><a name="termpapers">Past Term Papers</a></h3>  
+<a name="past"></a>
+<h4>Past Research Projects</h4>  
+<br>
+Non-visible Gesturing in Telephone Conversation  
+<sup>2011 - 2012 | [**pdf**](http://www.ncurproceedings.org/ojs/index.php/NCUR2012/article/view/181)</sup>
+<br>
+
+***
+<sub></sub>
+<a name="termpapers"></a>
+<h4>Past Term Papers</h4>  
 <br>
