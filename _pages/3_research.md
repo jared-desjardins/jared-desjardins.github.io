@@ -32,7 +32,7 @@ Non-visible Gesturing in Telephone Conversation
 ***
 <sub></sub>
 <a name="termpapers"></a>
-<h4>Past Term Papers</h4>  
+<h4>Past Term Papers</h4>
 <br>
 * Transitivity, Grammatical Relations, and Pronominal Argument Complementation in Moba
 * A Pilot Study of an Averaged Perceptron Part-of-Speech Tagger for Latin Raw Text
