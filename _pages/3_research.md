@@ -17,7 +17,7 @@ Exploring Object Control in English Caused-Motion and Infinitival Control Constr
 <sup>2017 - *present* | information coming soon</sup>  
 <br>
 A Corpus-based Linguistic Analysis of Latin Frequentative Verbs  
-<sup>2014 - *present* | information coming soon</sup>  
+<sup>2014 - *present* | information coming soon</sup>
 <br>
 
 ***
