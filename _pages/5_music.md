@@ -9,7 +9,7 @@ img: /img/music.jpeg
 <sub></sub>
 <h4>Opus 1</h4>
 <sup>2013-2014</sup>
-<p>More information coming soon. [Link.]('http://jared-desjardins.github.io/opus1/')</p>
+<p>More information coming soon. [Link.]('http://jared-desjardins.github.io/pages/opus1/')</p>
 <br>
 
 ***
