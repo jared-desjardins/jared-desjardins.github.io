@@ -1,8 +1,5 @@
 ---
-layout: default
-title: Opus 1
-description: null
-img: null
+layout: page
 ---
 
 ***
