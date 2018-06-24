@@ -7,7 +7,7 @@ img: /img/music.jpeg
 
 <span class="contacticon center">
 	<a href="mailto:jared.desjardins@colorado.edu" title="Opus 1">Opus 1</a>
-  <a href="mailto:jared.desjardins@colorado.edu" title="Email"><i class="fa fa-envelope-square"></i></a>
+  <a href="mailto:jared.desjardins@colorado.edu" title="Fragmenta">Fragmenta</a>
 </span>
 
 ***
