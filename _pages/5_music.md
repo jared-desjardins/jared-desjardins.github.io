@@ -8,7 +8,7 @@ img: /img/music.jpeg
 ***
 <sub></sub>
 <h4>Opus 1</h4>
-<sup>2013-2014</sup>
+<sup>2013-2014</sup>  
 <a href="http://jared-desjardins.github.io/music/opus1/">More information.</a>  
 
 ***
