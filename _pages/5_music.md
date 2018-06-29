@@ -10,12 +10,14 @@ img: /img/music.jpeg
 <h4>Opus 1</h4>
 <sup>2013-2014</sup>  
 <p>Opus 1 represents my most recent work, which involved me at an electronic piano, GarageBand (and later Logic Pro X), and the open source Audacity audio editing software. <a href="http://jared-desjardins.github.io/music/opus1">More information is available here.</a></p>
+<br/>
 
 ***
 <sub></sub>
 <h4>Fragmenta</h4>
 <sup>2006-2007</sup>  
 <p>Pieces and fragments of pieces I wrote between 2006 and 2007. More information coming soon.</p>
+<br/>
 
 ***
 <sub></sub>
