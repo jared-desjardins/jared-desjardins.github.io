@@ -15,7 +15,7 @@ img: /img/music.jpeg
 ***
 <sub></sub>
 <h4>Fragmenta</h4>
-<sup>2006 - 2007 | <b>more information</b></sup>  
+<sup>2006 - 2007 | <b>information coming soon</b></sup>  
 <p>Pieces and fragments of pieces I wrote between 2006 and 2007. More information coming soon.</p>
 <br/>
 
