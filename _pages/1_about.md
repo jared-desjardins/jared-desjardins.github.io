@@ -2,7 +2,7 @@
 layout: post
 title: about
 description: null
-img: /img/chipmunk.jpg
+img: /img/torreys.png
 ---
 
 ***
