@@ -19,6 +19,7 @@ Exploring Object Control in English Caused-Motion and Infinitival Control Constr
 A Corpus-based Linguistic Analysis of Latin Frequentative Verbs  
 <sup>2014 - *present* | **information coming soon**</sup>
 <br>
+<br/>
 
 ***
 <sub></sub>
@@ -28,6 +29,7 @@ A Corpus-based Linguistic Analysis of Latin Frequentative Verbs
 Non-visible Gesturing in Telephone Conversation  
 <sup>2011 - 2012 | [**pdf**](http://www.ncurproceedings.org/ojs/index.php/NCUR2012/article/view/181) | [**poster**](http://jared-desjardins.github.io/files/NCUR-poster.pdf)</sup>
 <br>
+<br/>
 
 ***
 <sub></sub>
