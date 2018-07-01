@@ -23,7 +23,7 @@ My own music is quite eclectic, although most of what I write is in minor. I enj
 ***
 <sub></sub>
 <h4><a href="http://jared-desjardins.github.io/music/fragmenta">Framgenta</a></h4>
-<sup>2006 - 2007 | <b>information coming soon</b></sup>  
+<sup>2006 - 2007</sup>
 
 ***
 <sub></sub>
