@@ -18,14 +18,14 @@ My own music is quite eclectic, although most of what I write is in minor. I enj
 ***
 <sub></sub>
 <h4><a href="http://jared-desjardins.github.io/music/opus1">Opus 1</a></h4>
-<sup>2013 - 2014 | <a href="http://jared-desjardins.github.io/music/opus1"><b>more information</b></a></sup>  
+<sup>2013 - 2014</sup>
 
 ***
 <sub></sub>
-<h4>Fragmenta</h4>
+<h4><a href="http://jared-desjardins.github.io/music/fragmenta">Framgenta</a></h4>
 <sup>2006 - 2007 | <b>information coming soon</b></sup>  
 
 ***
 <sub></sub>
-<h4>Storm's Overture and Earlier Work</h4>
+<h4><a href="http://jared-desjardins.github.io/music/early">Storm's Overture and Earlier Work</a></h4>
 <sup>1999 - 2008</sup>  
