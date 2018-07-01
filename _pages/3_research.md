@@ -7,6 +7,8 @@ img: /img/books.jpeg
 
 ***
 
+<br/>
+
 I'm fascinated by the complexity of human language, and my research is driven by a general curiosity about words, parts of words, the implicit rule systems that govern their various arrangements, and how (and why) they mean what they mean. Consequently, my research centers around morphology, syntax, semantics, and their "interface", usually using corpus-based methods. Please see below for information about my current and past research.
 
 ***
