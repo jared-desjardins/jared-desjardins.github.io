@@ -6,6 +6,10 @@ img: /img/books.jpeg
 ---
 
 ***
+
+I'm fascinated by the complexity of human language, and my research is driven by a general curiosity about words, parts of words, the implicit rule systems that govern their various arrangements, and how (and why) they mean what they mean. Consequently, my research centers around morphology, syntax, semantics, and their "interface", usually using corpus-based methods. Please see below for information about my current and past research.
+
+***
 <sub></sub>
 <a name="current"></a>
 <h4>Current Research Projects</h4>  
@@ -31,7 +35,7 @@ Non-visible Gesturing in Telephone Conversation
 <br>
 <br/>
 
-***
+<!--***
 <sub></sub>
 <a name="termpapers"></a>
 <h4>Past Term Papers</h4>
@@ -54,4 +58,4 @@ A Syntactic Account of Latin Verb Conjugation
 <br>
 Optimality Theory, the Moraic Torchee, and Latin Primary Stress  
 <br>
-Inclusive and Exclusive Disjunction, and Latin *vel* and *aut*  
+Inclusive and Exclusive Disjunction, and Latin *vel* and *aut*-->
