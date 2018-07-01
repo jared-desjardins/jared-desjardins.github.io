@@ -5,6 +5,10 @@ description: null
 img: /img/music.jpeg
 ---
 
+***
+
+<br/>
+
 Music has always been an important part of my life; I've been playing piano for over twenty five years, and composing music for almost two decades. I also studied percussion for nearly ten years, mostly specializing in pitched percussion and timpani, and have participated in various jazz, wind, and orchestral ensembles between middle school and early college. Over the years, I've also learned pipe organ, clarinet, classical guitar, and mountain dulcimer to varying degrees, although admittedly in limited capacities.
 
 In terms of piano, my favorite periods are the late classical and romantic, with Beethoven, Schubert, Mendelssohn, Sibelius, Brahms, Rachmaninoff, and Chopin being some of my favorite composers spanning those eras. 
@@ -15,15 +19,11 @@ My own music is quite eclectic, although most of what I write is in minor. I enj
 <sub></sub>
 <h4>Opus 1</h4>
 <sup>2013 - 2014 | <a href="http://jared-desjardins.github.io/music/opus1"><b>more information</b></a></sup>  
-<p>Opus 1 represents my most recent work, which involved me at an electronic piano, GarageBand (and later Logic Pro), along with the open source Audacity audio editing software, for recording, editing, and (post-)processing.</p>
-<br/>
 
 ***
 <sub></sub>
 <h4>Fragmenta</h4>
 <sup>2006 - 2007 | <b>information coming soon</b></sup>  
-<p>Pieces and fragments of pieces I wrote between 2006 and 2007. More information coming soon.</p>
-<br/>
 
 ***
 <sub></sub>
