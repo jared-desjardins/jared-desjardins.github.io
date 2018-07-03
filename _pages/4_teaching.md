@@ -7,7 +7,7 @@ img: /img/chalkboard-sq.png
 
 ***
 <sub></sub>
-<h4>Lead Graduate Teacherx</h4>
+<h4>Lead Graduate Teacher</h4>
 <sup>Department of Linguistics; Graduate Teacher Program | 2017 - <i>present</i></sup>
 
 ***
