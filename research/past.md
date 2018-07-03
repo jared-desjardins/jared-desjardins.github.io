@@ -8,7 +8,7 @@ img: null
 ***
 <sub></sub>
 <h4>Non-visible Gesturing in Telephone Conversation</h4>
-<sup>2011 - 2012 | <b><a href="http://www.ncurproceedings.org/ojs/index.php/NCUR2012/article/view/181">pdf</a></b> | <b><a href="http://jared-desjardins.github.io/files/NCUR-poster.pdf">poster</a></b></sup>
+<sup>2011 - 2012 | <a href="http://www.ncurproceedings.org/ojs/index.php/NCUR2012/article/view/181"><b>pdf</b></a> | <a href="http://jared-desjardins.github.io/files/NCUR-poster.pdf"><b>poster</b></a></sup>
 
 <br>
 
