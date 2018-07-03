@@ -13,29 +13,11 @@ I'm fascinated by the complexity of human language, and my research is driven by
 
 ***
 <sub></sub>
-<a name="current"></a>
-<h4>Current Research Projects</h4>  
-<br>
-A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Nature of the Morphology-Syntax Interface  
-<sup>2016 - *present* | [**more information**](http://jared-desjardins.github.io/LI/)</sup>  
-<br>
-Exploring Object Control in English Caused-Motion and Infinitival Control Constructions  
-<sup>2017 - *present* | **information coming soon**</sup>  
-<br>
-A Corpus-based Linguistic Analysis of Latin Frequentative Verbs  
-<sup>2014 - *present* | **information coming soon**</sup>
-<br>
-<br/>
+<h4><a href="http://jared-desjardins.github.io/research/current">Current Research Projects</a></h4>
 
 ***
 <sub></sub>
-<a name="past"></a>
-<h4>Past Research Projects</h4>  
-<br>
-Non-visible Gesturing in Telephone Conversation  
-<sup>2011 - 2012 | [**pdf**](http://www.ncurproceedings.org/ojs/index.php/NCUR2012/article/view/181) | [**poster**](http://jared-desjardins.github.io/files/NCUR-poster.pdf)</sup>
-<br>
-<br/>
+<h4><a href="http://jared-desjardins.github.io/research/past">Past Research Projects</a></h4>
 
 <!--***
 <sub></sub>
