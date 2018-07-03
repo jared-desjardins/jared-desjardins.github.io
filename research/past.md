@@ -16,7 +16,7 @@ img: null
 <br>
 
 ***
-<sub></sub>
+<sub></sub>  
 (2016) Transitivity, Grammatical Relations, and Pronominal Argument Complementation in Moba  
 <sup></sup>
 (2015) A Pilot Study of an Averaged Perceptron Part-of-Speech Tagger for Latin Raw Text  
