@@ -10,7 +10,7 @@ img: null
 <h4>Non-visible Gesturing in Telephone Conversation</h4>
 <sup>2011 - 2012 | <b>pdf</b> | <b>poster</b></sup>
 
-<br/>
+<br>
 
 <h3>other miscellaneous pilot studies and projects</h3>
 <br>
