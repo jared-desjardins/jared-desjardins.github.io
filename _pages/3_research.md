@@ -13,12 +13,13 @@ I'm fascinated by the complexity of human language, and my research is driven by
 
 ***
 <sub></sub>
-<h4><a href="http://jared-desjardins.github.io/research/current">Current Research Projects</a></h4>  
-<br/>
+<h4><a href="http://jared-desjardins.github.io/research/current">Current Research Projects</a></h4>
+<sup></sup>
 
 ***
 <sub></sub>
-<h4><a href="http://jared-desjardins.github.io/research/past">Past Research Projects</a></h4>  
+<h4><a href="http://jared-desjardins.github.io/research/past">Past Research Projects</a></h4>
+<sup></sup>
   
 <!--***
 <sub></sub>
