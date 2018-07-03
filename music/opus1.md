@@ -5,6 +5,10 @@ description: null
 img: null
 ---
 
+***
+
+<br/>
+
 Opus 1 represents my most recent work, which involved me at an electronic piano, GarageBand (and later Logic Pro), along with the open source Audacity audio editing software, for recording, editing, and (post-)processing.
 
 ***
