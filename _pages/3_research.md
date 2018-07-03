@@ -14,11 +14,11 @@ I'm fascinated by the complexity of human language, and my research is driven by
 ***
 <sub></sub>
 <h4><a href="http://jared-desjardins.github.io/research/current">Current Research Projects</a></h4>  
-
+  
 ***
 <sub></sub>
 <h4><a href="http://jared-desjardins.github.io/research/past">Past Research Projects</a></h4>  
-
+  
 <!--***
 <sub></sub>
 <a name="termpapers"></a>
