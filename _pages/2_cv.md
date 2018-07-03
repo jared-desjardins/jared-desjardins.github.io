@@ -6,7 +6,6 @@ img: /img/cv.png
 ---
 
 ***
-<br>
 <center><h4><a href="http://jared-desjardins.github.io/files/desjardins-cv-2018.pdf">PDF</a></h4></center>
 
 ***
