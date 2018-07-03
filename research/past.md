@@ -42,4 +42,4 @@ A Syntactic Account of Latin Verb Conjugation
 <br>
 Optimality Theory, the Moraic Torchee, and Latin Primary Stress  
 <br>
-Inclusive and Exclusive Disjunction, and Latin *vel* and *aut*-->
+Inclusive and Exclusive Disjunction, and Latin *vel* and *aut*
