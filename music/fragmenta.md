@@ -76,6 +76,6 @@ Your browser unfortunately does not support the audio element.
 <h4>Fragmentum VIII</h4>
 <sup>n.d.</sup>  
 <audio controls>
-  <source src="http://jared-desjardins.github.io/music/fragmentum8.mp3" type="audio/mpeg">
+  <source src="http://jared-desjardins.github.io/music/fragmentum08.mp3" type="audio/mpeg">
 Your browser unfortunately does not support the audio element.
 </audio>
