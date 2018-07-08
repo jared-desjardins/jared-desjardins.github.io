@@ -9,7 +9,7 @@ img: null
 
 <br/>
 
-Pieces and fragments of pieces I wrote between 2006 and 2007. **More information coming soon**.
+Pieces and fragments of pieces I wrote between 2006 and 2007, most of which are largely experimental.
 
 ***
 <sub></sub>
