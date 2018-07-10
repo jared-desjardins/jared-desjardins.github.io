@@ -13,9 +13,9 @@ Opus 1 represents my most recent (complete) work, which involved me at an electr
 
 ***
 |||
-|||
+|:-|:-|
 |<h4>Prelude in C Minor</h4>|<audio controls><source src="http://jared-desjardins.github.io/music/prelude.mp3" type="audio/mpeg">Your browser unfortunately does not support the audio element.</audio>|
-|<sup>2014</sup> ||
+|<sup>2014</sup>||
 
 ***
 <sub></sub>
