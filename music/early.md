@@ -1,6 +1,6 @@
 ---
 layout: post
-title: music | storm's overture and earlier work
+title: music | earlier work
 description: null
 img: null
 ---
