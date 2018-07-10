@@ -15,7 +15,7 @@ Opus 1 represents my most recent (complete) work, which involved me at an electr
 <sub></sub>
 <h4>Prelude in C Minor</h4>
 <sup>2014</sup>  
-<audio controls>
+<audio controls class="col one right">
   <source src="http://jared-desjardins.github.io/music/prelude.mp3" type="audio/mpeg">
 Your browser unfortunately does not support the audio element.
 </audio>
