@@ -16,6 +16,12 @@ img: null
 
 Opus 1 represents my most recent (complete) work, which involved me at an electronic piano, GarageBand (later Logic Pro), along with the open source Audacity audio editing software, for recording, editing, and (post-)processing.
 
+|Table|Test|
+|-----|----|
+|1||
+|2|3|
+|||
+
 ***
 <sub></sub>
 <h4>Prelude in C Minor</h4>
