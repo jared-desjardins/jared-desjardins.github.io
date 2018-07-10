@@ -23,19 +23,19 @@ Your browser unfortunately does not support the audio element.
 
 ***
 <sub></sub>
-<h4>Nocturne in E Minor</h4>
-<sup>2014</sup>  
-<audio controls>
+<audio controls class="col one right">
   <source src="http://jared-desjardins.github.io/music/nocturne.mp3" type="audio/mpeg">
 Your browser unfortunately does not support the audio element.
 </audio>
+<h4>Nocturne in E Minor</h4>
+<sup>2014</sup>  
 <br>
 
 ***
 <sub></sub>
-<h4>Fantaisie in C Minor</h4>
-<sup>2014</sup>  
-<audio controls>
+<audio controls class="col one right">
   <source src="http://jared-desjardins.github.io/music/fantaisie.mp3" type="audio/mpeg">
 Your browser unfortunately does not support the audio element.
 </audio>
+<h4>Fantaisie in C Minor</h4>
+<sup>2014</sup>  
