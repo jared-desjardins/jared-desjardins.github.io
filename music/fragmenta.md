@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [music](http://jared-desjardins.github.io/pages/5_music/) | fragmenta
+title: <a href="http://jared-desjardins.github.io/pages/5_music/">music</a> | fragmenta
 description: null
 img: null
 ---
