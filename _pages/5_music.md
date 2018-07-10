@@ -17,6 +17,11 @@ My own music is quite eclectic, although most of what I write is in minor. I enj
 
 ***
 <sub></sub>
+<h4>Opus 2</h4>
+<sup>2018 - <i>present</i> | <b>information coming soon</b></sup>
+
+***
+<sub></sub>
 <h4><a href="http://jared-desjardins.github.io/music/opus1">Opus 1</a></h4>
 <sup>2013 - 2014</sup>
 
