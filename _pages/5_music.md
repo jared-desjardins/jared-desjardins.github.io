@@ -9,7 +9,7 @@ img: /img/music.jpeg
 
 <br/>
 
-Music has always been an important part of my life; I've been playing piano for over twenty five years, and composing music for almost two decades. I also studied percussion for nearly ten years, mostly specializing in pitched percussion and timpani, and have participated in various jazz, wind, and orchestral ensembles between middle school and early college. Over the years, I've also learned pipe organ, clarinet, classical guitar, and mountain dulcimer to varying degrees, although admittedly in limited capacities.
+Music has always been important to me; I've been playing piano for over twenty five years, and composing music for almost two decades. I also studied percussion for nearly ten years, mostly specializing in pitched percussion and timpani, and have participated in various jazz, wind, and orchestral ensembles between middle school and early college. Over the years, I've also learned pipe organ, clarinet, classical guitar, and mountain dulcimer to varying degrees, although admittedly in limited capacities.
 
 In terms of piano, my favorite periods are the late classical and romantic, with Beethoven, Schubert, Mendelssohn, Sibelius, Brahms, Rachmaninoff, and Chopin being some of my favorite composers spanning those eras. 
 
