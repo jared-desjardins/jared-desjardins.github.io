@@ -21,7 +21,7 @@ Opus 1 represents my most recent work, which involved me at an electronic piano,
 <h4>Prelude in C Minor</h4>
 <sup>2014</sup>  
 <audio controls>
-  <source src="http://jared-desjardins.github.io/music/nocturne.mp3" type="audio/mpeg">
+  <source src="http://jared-desjardins.github.io/music/prelude.mp3" type="audio/mpeg">
 Your browser unfortunately does not support the audio element.
 </audio>
 <br>
