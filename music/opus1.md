@@ -15,7 +15,6 @@ Opus 1 represents my most recent work, which involved me at an electronic piano,
 <sub></sub>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
 
 .column {
     float: left;
@@ -29,7 +28,6 @@ Opus 1 represents my most recent work, which involved me at an electronic piano,
     display: table;
     clear: both;
 }
-</style>
 </head>
 <body>
 
