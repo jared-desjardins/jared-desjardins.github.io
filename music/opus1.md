@@ -18,6 +18,7 @@ Opus 1 represents my most recent work, which involved me at an electronic piano,
 
 ***
 <sub></sub>
+<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -57,6 +58,7 @@ Opus 1 represents my most recent work, which involved me at an electronic piano,
 </div>
 
 </body>
+</html>
 <br>
 
 ***
