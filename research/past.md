@@ -1,6 +1,6 @@
 ---
 layout: post
-title: past research projects
+title: <a href="http://jared-desjardins.github.io/pages/3_research/">research</a> | past projects
 description: null
 img: null
 ---
