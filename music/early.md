@@ -1,6 +1,6 @@
 ---
 layout: post
-title: <a href="http://jared-desjardins.github.io/pages/5_music/">music</a> | earlier work
+title: music | earlier work
 description: null
 img: null
 ---
