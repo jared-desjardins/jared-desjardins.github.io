@@ -8,7 +8,7 @@ img: null
 ***
 <sub></sub>
 <h4>A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Morphology-Syntax Interface</h4>
-<sup>2016 - <i>present</i> | <b>information coming soon</b></sup>
+<sup>2016 - 2018 | <a href="http://jared-desjardins.github.io/LI"><b>more information</b></a></sup>
 
 ***
 <sub></sub>
