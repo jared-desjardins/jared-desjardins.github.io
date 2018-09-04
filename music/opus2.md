@@ -9,7 +9,7 @@ img: null
 
 <br/>
 
-<!-- Opus 2 description. -->
+A description is coming soon.
 
 ***
 <sub></sub>
