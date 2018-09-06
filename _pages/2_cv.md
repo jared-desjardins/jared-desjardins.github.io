@@ -2,7 +2,7 @@
 layout: post
 title: cv
 description: null
-img: /img/cv.png
+img: /img/6278A0-cv.png
 ---
 
 ***
