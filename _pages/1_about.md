@@ -2,7 +2,7 @@
 layout: post
 title: about
 description: null
-img: /img/torreys.png
+img: /img/7487AB-about.png
 ---
 
 ***
