@@ -2,7 +2,7 @@
 layout: post
 title: research
 description: null
-img: /img/books.jpeg
+img: /img/516996-research.png
 ---
 
 ***
