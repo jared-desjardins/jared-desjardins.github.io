@@ -2,7 +2,7 @@
 layout: post
 title: teaching
 description: null
-img: /img/chalkboard-sq.png
+img: /img/405A8C-teaching.png
 ---
 
 ***
