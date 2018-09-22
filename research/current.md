@@ -27,7 +27,7 @@ img: null
 
 <br>
 
-<h2>other miscellaneous pilot studies and projects</h2>
+<h3>other miscellaneous pilot studies and projects</h3>
 <br>
 
 ***
