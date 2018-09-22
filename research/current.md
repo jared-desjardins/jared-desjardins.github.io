@@ -1,6 +1,6 @@
 ---
 layout: post
-title: research | current projects
+title: research
 description: null
 img: null
 ---
@@ -27,7 +27,7 @@ img: null
 
 <br>
 
-<h3>other miscellaneous pilot studies and projects</h3>
+<h2>other miscellaneous pilot studies and projects</h2>
 <br>
 
 ***
