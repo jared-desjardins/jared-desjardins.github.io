@@ -13,7 +13,7 @@ img: null
 ***
 <sub></sub>
 <h4>A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Morphology-Syntax Interface</h4>
-<sup>2016 - <i>present</i></sup>
+<sup>2016 - 2018</sup>
 
 ***
 <sub></sub>
@@ -27,7 +27,7 @@ img: null
 
 <br>
 
-<h3>other miscellaneous pilot studies and projects</h3>
+<h3>other pilot studies and projects</h3>
 <br>
 
 ***
