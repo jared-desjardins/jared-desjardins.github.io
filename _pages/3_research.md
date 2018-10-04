@@ -10,9 +10,9 @@ img: /img/516996-research.png
 <br/>
 
 <div class="img_row">
-	<img class="col three" src="/img/linguistree-snapshot.png">
+	<img class="col one right" src="/img/linguistree-snapshot.png">
 </div>
-<div class="col three caption">
+<div class="col one right caption">
 	A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all. 
 </div>
 
