@@ -9,9 +9,9 @@ img: /img/516996-research.png
 
 <br/>
 
-<figure>
-<img class="col one right" src="/img/linguistree-snapshot.png">
-<figcaption class="col one right">Caption goes here</figcaption>
+<figure class="col one right">
+<img src="/img/linguistree-snapshot.png">
+<figcaption>Caption goes here</figcaption>
 </figure>
 
 <!--<img class="col one right" src="/img/linguistree-snapshot.png">-->
