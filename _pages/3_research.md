@@ -12,9 +12,6 @@ img: /img/516996-research.png
 <div class="img_row">
 	<img class="col three" src="/img/linguistree-snapshot.png">
 </div>
-<div class="img_row">
-	<img class="col three" src="{{ site.baseurl }}/img/linguistree-snapshot.png">
-</div>
 <div class="col three caption">
 	A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all. 
 </div>
