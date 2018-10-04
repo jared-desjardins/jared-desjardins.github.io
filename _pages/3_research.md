@@ -11,7 +11,7 @@ img: /img/516996-research.png
 
 <figure>
 <img class="col one right" src="/img/linguistree-snapshot.png">
-<figcaption>Caption goes here</figcaption>
+<figcaption class="col one right">Caption goes here</figcaption>
 </figure>
 
 <!--<img class="col one right" src="/img/linguistree-snapshot.png">-->
