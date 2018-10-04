@@ -9,10 +9,15 @@ img: /img/516996-research.png
 
 <br/>
 
-<figure class="col one right">
-<img src="/img/linguistree-snapshot.png">
-<figcaption>Caption goes here</figcaption>
-</figure>
+<div class="img_row">
+	<img class="col three" src="/img/linguistree-snapshot.png">
+</div>
+<div class="img_row">
+	<img class="col three" src="{{ site.baseurl }}/img/linguistree-snapshot.png">
+</div>
+<div class="col three caption">
+	A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all. 
+</div>
 
 <!--<img class="col one right" src="/img/linguistree-snapshot.png">-->
 
