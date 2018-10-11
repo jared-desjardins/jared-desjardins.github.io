@@ -7,7 +7,7 @@ img: /img/405A8C-teaching.png
 
 ***
 <sub></sub>
-<a href="http://www.colorado.edu/gtp/lead-network"><h4>Lead Graduate Teacher</h4></a>
+<h4><a href="http://www.colorado.edu/gtp/lead-network">Lead Graduate Teacher</a></h4>
 <sup>Department of Linguistics | 2017 - <i>present</i></sup>
 
 ***
