@@ -32,5 +32,5 @@ My own music is quite eclectic, although most of what I write is in minor. I enj
 
 ***
 <sub></sub>
-<h4><a href="http://jared-desjardins.github.io/music/early">Earlier Work</a></h4>
+<h4><a href="http://jared-desjardins.github.io/music/early">Earlier Stuff</a></h4>
 <sup>1999 - 2008</sup>  
