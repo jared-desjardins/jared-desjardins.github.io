@@ -10,11 +10,11 @@ img: /img/405A8C-teaching.png
 <h4><a href="http://www.colorado.edu/gtp/lead-network">Lead Graduate Teacher</a></h4>
 <sup>Department of Linguistics | 2017 - <i>present</i></sup>
 
-***
+<!--***
 <sub></sub>
 <h4>LING 2000 Introduction to Linguistics</h4>
 <sup>Instructor of Record | Spring 2019</sup>
-
+-->
 ***
 <sub></sub>
 <h4>LING 4420 Morphology and Syntax</h4>
