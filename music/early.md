@@ -1,6 +1,6 @@
 ---
 layout: post
-title: music | earlier work
+title: music | earlier stuff
 description: null
 img: null
 ---
