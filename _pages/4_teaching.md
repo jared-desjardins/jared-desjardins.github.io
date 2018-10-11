@@ -12,6 +12,11 @@ img: /img/405A8C-teaching.png
 
 ***
 <sub></sub>
+<h4>LING 2000 Introduction to Linguistics</h4>
+<sup>Instructor of Record | Spring 2019</sup>
+
+***
+<sub></sub>
 <h4>LING 4420 Morphology and Syntax</h4>
 <sup>Instructor of Record | Spring 2018, Fall 2018</sup>
 
