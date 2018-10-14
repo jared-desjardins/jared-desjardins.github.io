@@ -42,7 +42,7 @@ img: null
 <sup></sup>
 (2013) An Error Analysis of Automatically Parsed Constructions in the [Groningen Meaning Bank](http://gmb.let.rug.nl/)  
 <sup></sup>
-(2013) Frequency and semantic change  
+(2013) Frequency and Semantic Change  
 <sup></sup>
 (2013) Deictic, Prosodic, and Syntactic Organization of a Temporal Sequence in Interaction  
 <sup></sup>
