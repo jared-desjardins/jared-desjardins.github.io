@@ -22,7 +22,7 @@ img: null
 
 <br>
 
-<h3>other pilot studies and projects</h3>
+<h3>other projects and pilot studies</h3>
 <br>
 
 ***
