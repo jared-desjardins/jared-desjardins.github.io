@@ -29,7 +29,7 @@ img: null
 <sub></sub> 
 (2017) Exploring Object Control in English Caused Motion and Infinitival Control Constructions
 <sub></sub>  
-(2016) Transitivity, Grammatical Relations, and Pronominal Argument Complementation in Moba  
+(2016) Transitivity, Grammatical Relations, and Pronominal Argument Complementation in [Moba](http://glottolog.org/resource/languoid/id/moba1244)  
 <sup></sup>
 (2015) A Pilot Study of an Averaged Perceptron Part-of-Speech Tagger for Latin Raw Text  
 <sup></sup>
