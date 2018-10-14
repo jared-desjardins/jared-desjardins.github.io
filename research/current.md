@@ -8,12 +8,17 @@ img: null
 ***
 <sub></sub>
 <h4>A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Morphology-Syntax Interface</h4>
-<sup>2016 - 2018 | Doctoral Synthesis Examination</sup>
+<sup>2016 - 2018 | Doctoral Synthesis Examination, University of Colorado</sup>
 
 ***
 <sub></sub>
 <h4>A Corpus-based Linguistic Analysis of Latin Frequentative Verbs</h4>
-<sup>2014 - 2016 | Doctoral Preliminary Examination</sup>
+<sup>2014 - 2016 | Doctoral Preliminary Examination, University of Colorado</sup>
+
+***
+<sub></sub>
+<h4>A Syntactic Account of Latin Analytic and Synthetic Verb Conjugation</h4>
+<sup>2011 - 2012 | Undergraduate Thesis, University of Minnesota</sup>
 
 ***
 <sub></sub>
@@ -42,8 +47,6 @@ img: null
 (2013) Frequency and Semantic Change  
 <sup></sup>
 (2013) Deictic, Prosodic, and Syntactic Organization of a Temporal Sequence in Interaction  
-<sup></sup>
-(2012) A Syntactic Account of Latin Verb Conjugation  
 <sup></sup>
 (2011) [Optimality Theory](http://en.wikipedia.org/wiki/Optimality_Theory), the Moraic Torchee, and Latin Primary Stress  
 <sup></sup>
