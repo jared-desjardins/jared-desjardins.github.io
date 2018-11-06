@@ -7,7 +7,7 @@ img: null
 
 ***
 <sub></sub>
-<h4>A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Morphology-Syntax Interface</h4>
+<a href="http://jared-desjardins.github.io/LI/"><h4>A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Morphology-Syntax Interface</h4></a>
 <sup>2016 - 2018 | Doctoral Synthesis Examination, University of Colorado</sup>
 
 ***
