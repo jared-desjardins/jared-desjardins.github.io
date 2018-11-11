@@ -19,7 +19,7 @@ I think an accurate descriptor of my own music is it tends to be minor, and I pa
 
 <sub></sub>
 <h4><a href="http://jared-desjardins.github.io/music/progression">Progression</a></h4>
-<sup>2015 - <i>present</i></sup>
+<sup>2015</i></sup>
 
 <sub></sub>
 <h4><a href="http://jared-desjardins.github.io/music/opus1">Opus 1</a></h4>
