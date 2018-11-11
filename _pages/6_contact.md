@@ -17,11 +17,11 @@ img: /img/314469-contact.png
 </span>
 
 <span class="contacticon center">
-	<a href="http://www.linkedin.com/in/jareddesjardins/" title="LinkedIn" target="_blank"><i class="fa fa-linkedin"></i></a>
+	<a href="http://www.researchgate.net/profile/Jared_Desjardins" title="ResearchGate"><i class="ai ai-researchgate-square"></i></a>
 </span>
 
 <span class="contacticon center">
-	<a href="http://www.researchgate.net/profile/Jared_Desjardins" title="ResearchGate"><i class="ai ai-researchgate-square"></i></a>
+	<a href="http://www.linkedin.com/in/jareddesjardins/" title="LinkedIn" target="_blank"><i class="fa fa-linkedin"></i></a>
 	<!-- <a href="http://github.com/jared-desjardins" title="GitHub"><i class="fa fa-github-square"></i></a> -->
 </span>
 
