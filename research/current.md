@@ -28,7 +28,7 @@ img: null
 <br>
 
 ***
-
+<sub></sub>
 <h3>other papers and pilot studies</h3>
 <br>
 
@@ -37,7 +37,7 @@ img: null
 <sub></sub>  
 (2016) Transitivity, Grammatical Relations, and Pronominal Argument Complementation in [Moba](http://glottolog.org/resource/languoid/id/moba1244)  
 <sup></sup>
-(2015) A Pilot Study of an Averaged Perceptron Part-of-Speech Tagger for Latin Raw Text  
+(2015) A Pilot Study of an Averaged [Perceptron](http://en.wikipedia.org/wiki/Perceptron) Part-of-Speech Tagger for Latin Raw Text  
 <sup></sup>
 (2014) The Role of Phoneme Distribution and Entropy in Predicting Utterance and Morpheme Segmentation  
 <sup></sup>
