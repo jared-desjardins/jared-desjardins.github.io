@@ -22,8 +22,13 @@ img: /img/314469-contact.png
 
 <span class="contacticon center">
 	<a href="http://www.linkedin.com/in/jareddesjardins/" title="LinkedIn" target="_blank"><i class="fa fa-linkedin"></i></a>
-	<!-- <a href="http://github.com/jared-desjardins" title="GitHub"><i class="fa fa-github-square"></i></a> -->
 </span>
+
+<!--
+<span class="contacticon center">
+	<a href="http://github.com/jared-desjardins" title="GitHub"><i class="fa fa-github-square"></i></a>
+</span>
+-->
 
 <a href="http://scholar.colorado.edu/cril/">
 <img class="col one center" src="/img/CRIL-thumb.png" alt="Colorado Research in Linguistics (CRIL)" title="Colorado Research in Linguistics (CRIL)"/>
