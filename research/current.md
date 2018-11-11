@@ -30,7 +30,7 @@ img: null
 ***
 <sub></sub>
 <h3>other papers and pilot studies</h3>
-<sub></sub> 
+<p></p> 
 (2017) Exploring Object Control in English Caused Motion and Infinitival Control Constructions
 <sub></sub>  
 (2016) Transitivity, Grammatical Relations, and Pronominal Argument Complementation in [Moba](http://glottolog.org/resource/languoid/id/moba1244)  
