@@ -16,6 +16,7 @@ In terms of piano, my favorite periods are the late classical and romantic, with
 I think an accurate descriptor of my own music is it tends to be minor, and I particularly like experimenting with melody and melodic structures, traditional orchestration, synthesized instrumentation, among other things. I'm pretty sure my music is deeply influenced by Western art composers (some of whom are listed above), soundtrack composers (e.g., Hans Zimmer), (musically) contemporary artists (e.g. David Bowie), and [Philip Glass](http://en.wikipedia.org/wiki/Philip_Glass).
 
 ***
+<!--
 <sub></sub>
 <h4><a href="http://jared-desjardins.github.io/music/opus2">Opus 2</a></h4>
 <sup>2015 - <i>present</i></sup>
@@ -31,3 +32,4 @@ I think an accurate descriptor of my own music is it tends to be minor, and I pa
 <sub></sub>
 <h4><a href="http://jared-desjardins.github.io/music/early">Earlier Stuff</a></h4>
 <sup>1999 - 2008</sup>  
+-->
