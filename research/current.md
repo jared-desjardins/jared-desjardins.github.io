@@ -27,10 +27,10 @@ img: null
 
 <br>
 
+***
+
 <h3>other projects and pilot studies</h3>
 <br>
-
-***
 
 <sub></sub> 
 (2017) Exploring Object Control in English Caused Motion and Infinitival Control Constructions
