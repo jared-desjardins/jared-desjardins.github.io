@@ -24,3 +24,7 @@ img: /img/314469-contact.png
 	<a href="http://www.researchgate.net/profile/Jared_Desjardins" title="ResearchGate"><i class="ai ai-researchgate-square"></i></a>
 	<!-- <a href="http://github.com/jared-desjardins" title="GitHub"><i class="fa fa-github-square"></i></a> -->
 </span>
+
+<a href="http://scholar.colorado.edu/cril/">
+<img class="col one center" src="/img/CRIL-thumb.png" alt="Colorado Research in Linguistics (CRIL)" title="Colorado Research in Linguistics (CRIL)"/>
+</a>
