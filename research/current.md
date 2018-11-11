@@ -29,7 +29,7 @@ img: null
 
 ***
 
-<h3>other projects and pilot studies</h3>
+<h3>other papers and pilot studies</h3>
 <br>
 
 <sub></sub> 
