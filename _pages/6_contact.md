@@ -24,14 +24,12 @@ img: /img/314469-contact.png
 	<a href="http://www.linkedin.com/in/jareddesjardins/" title="LinkedIn" target="_blank"><i class="fa fa-linkedin"></i></a>
 </span>
 
+<span class="contacticon center">
+	<a href="http://scholar.colorado.edu/cril/" title="Colorado Research in Linguistics (CRIL)" target="_blank"><img class="col one " src="/img/CRIL-thumb.png" alt="Colorado Research in Linguistics (CRIL)" title="Colorado Research in Linguistics (CRIL)"/></a>
+</span>
+
 <!--
 <span class="contacticon center">
 	<a href="http://github.com/jared-desjardins" title="GitHub"><i class="fa fa-github-square"></i></a>
 </span>
 -->
-
-<center>
-<a href="http://scholar.colorado.edu/cril/">
-<img class="col one centered" src="/img/CRIL-thumb.png" alt="Colorado Research in Linguistics (CRIL)" title="Colorado Research in Linguistics (CRIL)"/>
-</a>
-</center>
