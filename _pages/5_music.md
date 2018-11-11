@@ -21,14 +21,17 @@ I think an accurate descriptor of my own music is it tends to be minor, and I pa
 <h4><a href="http://jared-desjardins.github.io/music/progression">Progression</a></h4>
 <sup>2015</sup>
 
+***
 <sub></sub>
 <h4><a href="http://jared-desjardins.github.io/music/opus1">Opus 1</a></h4>
 <sup>2013 - 2014</sup>
 
+***
 <sub></sub>
 <h4><a href="http://jared-desjardins.github.io/music/fragmenta">Fragmenta</a></h4>
 <sup>2006 - 2007</sup>
 
+***
 <sub></sub>
 <h4><a href="http://jared-desjardins.github.io/music/early">Earlier Stuff</a></h4>
 <sup>1999 - 2008</sup>  
