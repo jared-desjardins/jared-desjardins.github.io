@@ -7,7 +7,7 @@ img: null
 
 ***
 <sub></sub>
-<h4><a href="http://jared-desjardins.github.io/LI/">A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Morphology-Syntax Interface</a></h4>
+<h4><a href="http://www.researchgate.net/publication/328773017_A_Cross-theoretical_and_Cross-linguistic_Survey_of_Lexical_Integrity_and_the_Morphology-Syntax_Interface">A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Morphology-Syntax Interface</a></h4>
 <sup>2016 - 2018 | Doctoral Synthesis Examination, University of Colorado</sup>
 
 ***
@@ -31,6 +31,7 @@ img: null
 <br>
 
 ***
+
 <sub></sub> 
 (2017) Exploring Object Control in English Caused Motion and Infinitival Control Constructions
 <sub></sub>  
