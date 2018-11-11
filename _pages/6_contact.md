@@ -25,7 +25,7 @@ img: /img/314469-contact.png
 </span>
 
 <span class="contacticon center">
-	<a href="http://scholar.colorado.edu/cril/" title="Colorado Research in Linguistics (CRIL)" target="_blank"><img src="/img/CRIL-thumb.png" alt="Colorado Research in Linguistics (CRIL)" style="width:200px;height:200px;""/></a>
+	<a href="http://scholar.colorado.edu/cril/" title="Colorado Research in Linguistics (CRIL)" target="_blank"><img src="/img/CRIL-thumb.png" alt="Colorado Research in Linguistics (CRIL)" style="width:200px;height:200px;"/></a>
 </span>
 
 <!--
