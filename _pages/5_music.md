@@ -15,6 +15,8 @@ In terms of piano, my favorite periods are the late classical and romantic, with
 
 I think an accurate descriptor of my own music is it tends to be minor, and I particularly like experimenting with melody and melodic structures, traditional orchestration, synthesized instrumentation, among other things. I'm pretty sure my music is deeply influenced by Western art composers (some of whom are listed above), soundtrack composers (e.g., Hans Zimmer), (musically) contemporary artists (e.g. David Bowie), and [Philip Glass](http://en.wikipedia.org/wiki/Philip_Glass).
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/168466665&color=%23080e1c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+
 ***
 <!--
 <sub></sub>
