@@ -13,29 +13,4 @@ Opus 1 represents my most recent (complete) work, which involved me at an electr
 
 ***
 <sub></sub>
-<audio controls class="col one right">
-  <source src="http://jared-desjardins.github.io/music/prelude.mp3" type="audio/mpeg">
-Your browser unfortunately does not support the audio element.
-</audio>
-<h4>Prelude in C Minor</h4>
-<sup>2014</sup>  
-<br>
-
-***
-<sub></sub>
-<audio controls class="col one right">
-  <source src="http://jared-desjardins.github.io/music/nocturne.mp3" type="audio/mpeg">
-Your browser unfortunately does not support the audio element.
-</audio>
-<h4>Nocturne in E Minor</h4>
-<sup>2014</sup>  
-<br>
-
-***
-<sub></sub>
-<audio controls class="col one right">
-  <source src="http://jared-desjardins.github.io/music/fantaisie.mp3" type="audio/mpeg">
-Your browser unfortunately does not support the audio element.
-</audio>
-<h4>Fantaisie in C Minor</h4>
-<sup>2014</sup>  
+<iframe width="100%" height="350" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/94358087&color=%23666666&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
