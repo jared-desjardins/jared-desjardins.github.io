@@ -32,6 +32,6 @@ img: /img/314469-contact.png
 
 <center>
 <a href="http://scholar.colorado.edu/cril/">
-<img class="col one center" src="/img/CRIL-thumb.png" alt="Colorado Research in Linguistics (CRIL)" title="Colorado Research in Linguistics (CRIL)"/>
+<img class="col two center" src="/img/CRIL-thumb.png" alt="Colorado Research in Linguistics (CRIL)" title="Colorado Research in Linguistics (CRIL)"/>
 </a>
 </center>
