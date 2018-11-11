@@ -17,14 +17,8 @@ I think an accurate descriptor of my own music is it tends to be minor, and I pa
 
 ***
 
-<iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/641818461&color=%23666666&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-<iframe width="100%" height="350" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/94358087&color=%23666666&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
-
-<!--
 <sub></sub>
-<h4><a href="http://jared-desjardins.github.io/music/opus2">Opus 2</a></h4>
+<h4><a href="http://jared-desjardins.github.io/music/progression">Progression</a></h4>
 <sup>2015 - <i>present</i></sup>
 
 <sub></sub>
@@ -38,4 +32,3 @@ I think an accurate descriptor of my own music is it tends to be minor, and I pa
 <sub></sub>
 <h4><a href="http://jared-desjardins.github.io/music/early">Earlier Stuff</a></h4>
 <sup>1999 - 2008</sup>  
--->
