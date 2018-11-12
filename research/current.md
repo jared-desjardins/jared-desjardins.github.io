@@ -23,7 +23,7 @@ img: null
 ***
 <sub></sub>
 <h4>Non-visible Gesturing in Telephone Conversation</h4>
-<sup>2011 - 2012 | <a href="http://www.ncurproceedings.org/ojs/index.php/NCUR2012/article/view/181"><b>paper</b></a> | <a href="http://jared-desjardins.github.io/files/NCUR-poster.pdf"><b>poster</b></a></sup>
+<sup>2011 - 2012 | <a href="http://www.researchgate.net/publication/328878784_Non-visible_Gesturing_in_Telephone_Conversation"><b>paper</b></a> | <a href="http://www.researchgate.net/publication/328878301_Non-visible_Gesturing_in_Telephone_Conversation"><b>poster</b></a></sup>
 
 <br>
 
