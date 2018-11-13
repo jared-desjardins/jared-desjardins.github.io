@@ -17,7 +17,9 @@ img: /img/314469-contact.png
 	<a href="http://www.researchgate.net/profile/Jared_Desjardins" title="ResearchGate"><i class="ai ai-researchgate-square"></i></a>
 	<a href="http://www.linkedin.com/in/jareddesjardins/" title="LinkedIn" target="_blank"><i class="fa fa-linkedin"></i></a>
 </span>
-<--
+
+<!--
+
 <span class="contacticon center">
 	<a href="http://www.researchgate.net/profile/Jared_Desjardins" title="ResearchGate"><i class="ai ai-researchgate-square"></i></a>
 </span>
@@ -26,6 +28,7 @@ img: /img/314469-contact.png
 	<a href="http://www.linkedin.com/in/jareddesjardins/" title="LinkedIn" target="_blank"><i class="fa fa-linkedin"></i></a>
 </span>
 -->
+
 <span class="contacticon center">
 	<a href="http://orcid.org/0000-0002-1462-4928" title="ORCID | 0000-0002-1462-4928" target="_blank"><img src="/img/orcid.png" alt="ORCID | 0000-0002-1462-4928"/></a>
 </span>
