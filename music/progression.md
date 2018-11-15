@@ -5,11 +5,9 @@ description: null
 img: null
 ---
 
+<sup>2015</sup>
+
 ***
-
-<br/>
-
-<center><sup>2015</sup></center>
 
 <br/>
 
