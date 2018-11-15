@@ -9,7 +9,7 @@ img: null
 
 <br/>
 
-<center><sup>2013 - 2014</p></sup>
+<center><sup>2013 - 2014</sup></center>
 
 <!--Opus 1 represents my most recent (complete) work, which involved me at an electronic piano, GarageBand (later Logic Pro), along with the open source Audacity audio editing software, for recording, editing, and (post-)processing.-->
 
