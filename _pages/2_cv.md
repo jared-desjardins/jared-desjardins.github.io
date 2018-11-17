@@ -12,4 +12,4 @@ img: /img/6278A0-cv.png
 
 ***
 <sub></sub>
-<center><h4><a href="http://jared-desjardins.github.io/files/desjardins-cv-2018.pdf">PDF</a></h4></center>
+<center><sup><a href="http://jared-desjardins.github.io/files/desjardins-cv-2018.pdf"><b>DOWNLOAD</b> | PDF</a></sup></center>
