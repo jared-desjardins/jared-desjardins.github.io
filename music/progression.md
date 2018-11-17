@@ -5,8 +5,6 @@ description: null
 img: null
 ---
 
-<sup>2015</sup>
-
 ***
 
 <br/>
