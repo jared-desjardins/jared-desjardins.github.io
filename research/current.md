@@ -12,18 +12,18 @@ img: null
 
 ***
 <sub></sub>
-<h4>A Corpus-based Linguistic Analysis of Latin Frequentative Verbs</h4>
+<h4><a href="http://www.researchgate.net/publication/329019387_A_Corpus-based_Linguistic_Analysis_of_Latin_Frequentative_Verbs">A Corpus-based Linguistic Analysis of Latin Frequentative Verbs</a></h4>
 <sup>2014 - 2016 | Doctoral Preliminary Examination, University of Colorado</sup>
 
 ***
 <sub></sub>
-<h4>A Syntactic Account of Latin Analytic and Synthetic Verb Conjugation</h4>
+<h4><a href="http://www.researchgate.net/publication/328917117_A_Syntactic_Account_of_Latin_Verb_Conjugation">A Syntactic Account of Latin Analytic and Synthetic Verb Conjugation</a></h4>
 <sup>2011 - 2012 | Undergraduate Thesis, University of Minnesota</sup>
 
 ***
 <sub></sub>
-<h4>Non-visible Gesturing in Telephone Conversation</h4>
-<sup>2011 - 2012 | <a href="http://www.researchgate.net/publication/328878784_Non-visible_Gesturing_in_Telephone_Conversation"><b>paper</b></a> | <a href="http://www.researchgate.net/publication/328878301_Non-visible_Gesturing_in_Telephone_Conversation"><b>poster</b></a></sup>
+<h4><a href="http://www.researchgate.net/publication/328878301_Non-visible_Gesturing_in_Telephone_Conversation">Non-visible Gesturing in Telephone Conversation</a></h4>
+<sup>2011 - 2012 | PI, University of Minnesota</sup>
 
 <br>
 
