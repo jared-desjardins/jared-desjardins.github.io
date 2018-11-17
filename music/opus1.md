@@ -17,7 +17,7 @@ img: null
 
 <br/>
 
-<center><sup><strong><a href="http://jared-desjardins.github.io/pages/5_music/">BACK</a></strong></sup></center>
+<strong><center><sup><a href="http://jared-desjardins.github.io/pages/5_music/">BACK</a></sup></center></strong>
 
 <!--
 <iframe width="100%" height="350" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/94358087&color=%23666666&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
