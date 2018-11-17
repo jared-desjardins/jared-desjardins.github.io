@@ -50,3 +50,7 @@ img: null
 (2011) [Optimality Theory](http://en.wikipedia.org/wiki/Optimality_Theory), the Moraic Torchee, and Latin Primary Stress  
 <sup></sup>
 (2011) Inclusive and Exclusive Disjunction, and Latin *vel* and *aut*  
+
+<br/>
+
+<strong><center><sup><a href="http://jared-desjardins.github.io/pages/3_research/">BACK</a></sup></center></strong>
