@@ -5,8 +5,6 @@ description: null
 img: null
 ---
 
-<sup>2006 - 2007</sup>
-
 ***
 
 <br/>
