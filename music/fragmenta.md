@@ -17,4 +17,4 @@ img: null
 
 <br/>
 
-<center><sup><bold><a href="http://jared-desjardins.github.io/pages/5_music/">BACK</a></bold></sup></center>
+<center><sup><strong><a href="http://jared-desjardins.github.io/pages/5_music/">BACK</a></strong></sup></center>
