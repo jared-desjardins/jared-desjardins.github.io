@@ -23,7 +23,7 @@ img: null
 ***
 <sub></sub>
 <h4><a href="http://www.researchgate.net/publication/328878301_Non-visible_Gesturing_in_Telephone_Conversation">Non-visible Gesturing in Telephone Conversation</a></h4>
-<sup>2011 - 2012 | PI, University of Minnesota</sup>
+<sup>2011 - 2012 | University of Minnesota</sup>
 
 <br>
 
