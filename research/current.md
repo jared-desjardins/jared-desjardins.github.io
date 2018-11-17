@@ -51,4 +51,4 @@ img: null
 
 <br/>
 
-<center><sup><a href="http://jared-desjardins.github.io/pages/3_research/"><b>BACK | RESEARCH</b></a></sup></center>
+<center><sup><a href="http://jared-desjardins.github.io/pages/3_research/"><b>BACK</b> | RESEARCH</a></sup></center>
