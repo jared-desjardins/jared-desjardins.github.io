@@ -25,8 +25,6 @@ img: null
 <h4><a href="http://www.researchgate.net/publication/328878301_Non-visible_Gesturing_in_Telephone_Conversation">Non-visible Gesturing in Telephone Conversation</a></h4>
 <sup>2011 - 2012 | University of Minnesota</sup>
 
-<br>
-
 ***
 <sub></sub>
 <h3>other papers and pilot studies</h3>
