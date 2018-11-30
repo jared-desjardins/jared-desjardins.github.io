@@ -45,7 +45,7 @@ img: null
 <sup></sup>
 (2013) Deictic, Prosodic, and Syntactic Organization of a Temporal Sequence in Interaction  
 <sup></sup>
-(2011) [Optimality Theory](http://en.wikipedia.org/wiki/Optimality_Theory), the Moraic Torchee, and Latin Primary Stress  
+(2011) [Optimality Theory](http://en.wikipedia.org/wiki/Optimality_Theory), the Moraic Trochee, and Latin Primary Stress  
 <sup></sup>
 (2011) Inclusive and Exclusive Disjunction, and Latin *vel* and *aut*  
 
