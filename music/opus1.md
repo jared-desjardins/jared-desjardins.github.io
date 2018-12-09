@@ -1,6 +1,6 @@
 ---
 layout: post
-title: music | opus 1
+title: music | opus
 description: null
 img: null
 ---
