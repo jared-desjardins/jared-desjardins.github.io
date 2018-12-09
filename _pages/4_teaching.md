@@ -33,9 +33,9 @@ img: /img/405A8C-teaching.png
 ***
 <sub></sub>
 <h4>LING 7800/CSCI 7000 Computational Lexical Semantics</h4>
-<sup>Grader | Fall 2014; Spring 2016, 2017</sup>
+<sup>Grader | Fall 2014; Spring 2016, 2017 | Dr. Martha Palmer</sup>
 
 ***
 <sub></sub>
 <h4><a href="http://catalog.colorado.edu/search/?P=LING%205430">LING 5430 Semantics and Pragmatics</a></h4>
-<sup>Grader | Spring 2018</sup>
+<sup>Grader | Spring 2018 | Dr. Laura Michaelis</sup>
