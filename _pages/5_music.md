@@ -13,6 +13,8 @@ img: /img/3B5280-music.png
 >
 > <sup>"If there's one thing I really love . . . it's sad music." - Danny Elfman</sup>
 
+<br/>
+
 Music has always been interesting to me - I've been playing piano for over twenty five years, and composing music for almost two decades. I also studied (pitched) percussion for nearly ten years, and have participated in various jazz, wind, and orchestral ensembles between middle school and early college.
 
 In terms of piano, my favorite periods are the late classical and romantic, with Beethoven, Schubert, Mendelssohn, Sibelius, Brahms, Rachmaninoff, and Chopin being some of my favorite composers spanning those eras. 
