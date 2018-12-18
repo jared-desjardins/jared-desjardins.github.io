@@ -5,6 +5,9 @@ description: null
 img: /img/3B5280-music.png
 ---
 
+> <sup>“The past is reinvented and becomes the future. But the lineage is everything.” - Philip Glass</sup>
+> <sup>"If there's one thing I really love ... it's sad music." - Danny Elfman</sup>
+
 ***
 
 <br/>
@@ -14,8 +17,6 @@ Music has always been interesting to me - I've been playing piano for over twent
 In terms of piano, my favorite periods are the late classical and romantic, with Beethoven, Schubert, Mendelssohn, Sibelius, Brahms, Rachmaninoff, and Chopin being some of my favorite composers spanning those eras. 
 
 I think an accurate descriptor of my own music is it tends to be minor, and I particularly like experimenting with melody and melodic structures, traditional orchestration, synthesized instrumentation, among other things. I'm pretty sure my music is deeply influenced by Western art composers (some of whom are listed above), soundtrack composers (e.g., Hans Zimmer), (musically) contemporary artists (e.g., David Bowie, Simon and Garfunkel), and [Philip Glass](http://en.wikipedia.org/wiki/Philip_Glass).
-
-> <sup>"If there's one thing I really love ... it's sad music." - Danny Elfman</sup>
 
 ***
 
