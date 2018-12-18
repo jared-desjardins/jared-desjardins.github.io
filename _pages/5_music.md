@@ -5,11 +5,11 @@ description: null
 img: /img/3B5280-music.png
 ---
 
+***
+
 > <sup>“The past is reinvented and becomes the future. But the lineage is everything.” - Philip Glass</sup>
 >
 > <sup>"If there's one thing I really love . . . it's sad music." - Danny Elfman</sup>
-
-***
 
 <br/>
 
