@@ -19,7 +19,7 @@ I think an accurate descriptor of my own music is it tends to be minor, and I pa
 
 <sub></sub>
 <h4>A Piece for Three Pianos</h4>
-<sup>2018 - <em>present</em></sup>
+<sup>2018 - <em>present</em> (in progress)</sup>
 
 ***
 
