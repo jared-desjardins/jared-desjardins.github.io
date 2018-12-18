@@ -15,7 +15,7 @@ In terms of piano, my favorite periods are the late classical and romantic, with
 
 I think an accurate descriptor of my own music is it tends to be minor, and I particularly like experimenting with melody and melodic structures, traditional orchestration, synthesized instrumentation, among other things. I'm pretty sure my music is deeply influenced by Western art composers (some of whom are listed above), soundtrack composers (e.g., Hans Zimmer), (musically) contemporary artists (e.g., David Bowie, Simon and Garfunkel), and [Philip Glass](http://en.wikipedia.org/wiki/Philip_Glass).
 
-> "If there's one thing I really love ... it's sad music." - Danny Elfman
+> <sup>"If there's one thing I really love ... it's sad music." - Danny Elfman</sup>
 
 ***
 
