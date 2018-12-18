@@ -18,7 +18,7 @@ I think an accurate descriptor of my own music is it tends to be minor, and I pa
 ***
 
 <sub></sub>
-<h4><a href="http://jared-desjardins.github.io/music/minimalism">A Piece for Three Pianos</a></h4>
+<h4>A Piece for Three Pianos</h4>
 <sup>2018 - <em>present</em></sup>
 
 ***
