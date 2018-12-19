@@ -6,12 +6,12 @@ img: /img/516996-research.png
 ---
 
 ***
-<!--
+
 <br/>
 
 > <sup>“[. . .] strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum &ndash; even encourage the more critical and dissident views. That gives people the sense that there’s free thinking going on, while all the time the presuppositions of the system are being reinforced by the limits put on the range of the debate.” Noam Chomsky</sup>
 >
-> <sup>"It is the mark of an educated mind to be able to entertain a thought without accepting it." Aristotle</sup> -->
+> <sup>"It is the mark of an educated mind to be able to entertain a thought without accepting it." Aristotle</sup>
 
 <br/>
 
