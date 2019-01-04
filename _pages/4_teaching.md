@@ -15,6 +15,8 @@ img: /img/405A8C-teaching.png
 <h4>LING 4420 Morphology and Syntax</h4>
 <sup>Instructor of Record | Spring 2018 - 2019, Fall 2018</sup>
 
+> <sup>This post-introductory course provides a survey of the fundamental elements of morphology – the principles of word formation – and syntax – the principles of sentence structure, covering major morphological and syntactic structures found among the world's languages.  We will discuss methods for describing grammatical constructions and frequently use in-class data analysis as the backbone for our discussions.  While this course adopts a functional, structural perspective, we will briefly touch on major theoretical accounts of morphology and syntax and their relationship to cognitive-functional linguistics.)/sup>
+
 ***
 <sub></sub>
 <h4>LING 1020 Languages of the World</h4>
