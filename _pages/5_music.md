@@ -24,7 +24,7 @@ My own music tends to be in minor, and I particularly like experimenting with me
 ***
 
 <sub></sub>
-<h4>a href="http://jared-desjardins.github.io/music/pianos">A Piece for Three Pianos</a></h4>
+<h4><a href="http://jared-desjardins.github.io/music/pianos">A Piece for Three Pianos</a></h4>
 <sup>2019</sup>
 
 ***
