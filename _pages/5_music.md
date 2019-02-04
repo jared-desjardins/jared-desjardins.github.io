@@ -19,7 +19,7 @@ Music has always been interesting to me - I've been playing piano for over twent
 
 In terms of piano, my favorite periods are the late classical and romantic, with Beethoven, Schubert, Mendelssohn, Sibelius, Brahms, Rachmaninoff, and Chopin being some of my favorite composers spanning those eras. 
 
-My own music tends to be in minor, and I particularly like experimenting with melodic structures, traditional orchestration, and synthesized instrumentation. I would say my musical style is strongly influenced by Western art composers (some of whom are listed above), soundtrack composers (such as [Hans Zimmer](http://en.wikipedia.org/wiki/Hans_Zimmer)), and more recently [Philip Glass](http://en.wikipedia.org/wiki/Philip_Glass). Some of my most recent pieces (and fragments of pieces) are provided at the links below.
+My own music tends to be in minor, and I particularly like experimenting with melodic structures, traditional orchestration, and synthesized instrumentation. I would say my musical style is strongly influenced by Western art composers (some of whom are listed above), soundtrack composers (such as [Hans Zimmer](http://en.wikipedia.org/wiki/Hans_Zimmer)), and most recently [Philip Glass](http://en.wikipedia.org/wiki/Philip_Glass). Some of my most recent pieces (and fragments of pieces) are provided at the links below.
 
 ***
 
