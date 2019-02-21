@@ -13,7 +13,7 @@ img: null
 ***
 <sub></sub>
 <h4><a href="http://www.researchgate.net/publication/329019387_A_Corpus-based_Linguistic_Analysis_of_Latin_Frequentative_Verbs">A Corpus-based Linguistic Analysis of Latin Frequentative Verbs</a></h4>
-<sup>2014 - 2016 | Doctoral Preliminary Examination, University of Colorado</sup>
+<sup>2015 - *current* | Doctoral Preliminary Examination, University of Colorado</sup>
 
 ***
 <sub></sub>
