@@ -12,7 +12,7 @@ img: /img/3B5280-music.png
 > <sup>“The past is reinvented and becomes the future. But the lineage is everything.” Philip Glass</sup>
 >
 > <sup>"If there's one thing I really love . . . it's sad music." Danny Elfman</sup> -->
-
+<!--
 <br/>
 
 Music has always been interesting to me - I've been playing piano for over twenty five years, and composing music for almost two decades. I've also played various percussion instruments for nearly ten years, and have participated in jazz, wind, and orchestral ensembles between middle school and early college.
@@ -37,7 +37,7 @@ My own music tends to be in minor, and I particularly like experimenting with me
 <sub></sub>
 <h4><a href="http://jared-desjardins.github.io/music/opus1">Opus</a></h4>
 <sup>2013 - 2014</sup>
-
+-->
 <!--
 
 ***
