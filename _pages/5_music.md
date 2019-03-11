@@ -1,6 +1,6 @@
 ---
 layout: post
-title: music
+title: null
 description: null
 img: /img/3B5280-music.png
 ---
