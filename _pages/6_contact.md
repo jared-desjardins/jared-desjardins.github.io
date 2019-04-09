@@ -14,7 +14,7 @@ img: /img/314469-contact.png
 
 <span class="contacticon center">
 	<a href="mailto:jared.desjardins@colorado.edu" title="Email"><i class="fa fa-envelope-square"></i></a>
-	<a href="http://www.linkedin.com/in/jareddesjardins/" title="LinkedIn" target="_blank"><i class="fa fa-linkedin"></i></a>
+	<a href="http://www.linkedin.com/in/jareddesjardins/" title="LinkedIn" target="_blank"><i class="fa fa-linkedin-square"></i></a>
 	<a href="http://www.researchgate.net/profile/Jared_Desjardins" title="ResearchGate"><i class="ai ai-researchgate-square"></i></a>
 	<a href="http://www.instagram.com/jared.desjardins/" title="Instagram"><i class="fa fa-instagram"></i></a>
 	<a href="http://colorado.academia.edu/JaredDesjardins" title="Academia" target="_blank"><i class="ai ai-academia-square"></i></a>
