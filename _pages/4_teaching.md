@@ -23,7 +23,7 @@ img: /img/405A8C-teaching.png
 ***
 <sub></sub>
 <h4><a href="http://www.colorado.edu/gtp/lead-network">Lead Graduate Teacher</a></h4>
-<sup>Department of Linguistics | 2017 - <i>present</i></sup>
+<sup>Department of Linguistics | 2017 - 2019 <i>present</i></sup>
 
 ***
 <sub></sub>
@@ -33,7 +33,7 @@ img: /img/405A8C-teaching.png
 ***
 <sub></sub>
 <h4>LING 1020 Languages of the World</h4>
-<sup>Instructor of Record | Spring 2015 - 2017, Fall 2015 - 2016</sup>  
+<sup>Instructor of Record | Spring 2015 - 2017, Fall 2015 - 2016, Summer 2019</sup>  
   
 ***
 <sub></sub>
