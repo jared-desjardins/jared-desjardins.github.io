@@ -23,7 +23,7 @@ img: /img/405A8C-teaching.png
 ***
 <sub></sub>
 <h4>Lead Graduate Teacher</h4>
-<sup>Department of Linguistics | 2017 - 2019 <i>present</i></sup>
+<sup>Department of Linguistics | 2017 - 2019</sup>
 
 ***
 <sub></sub>
