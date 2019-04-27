@@ -17,12 +17,7 @@ img: null
 
 ***
 <sub></sub>
-<h4><a href="http://www.researchgate.net/publication/328917117_A_Syntactic_Account_of_Latin_Verb_Conjugation">A Syntactic Account of Latin Analytic and Synthetic Verb Conjugation</a></h4>
-<sup>2011 - 2012 | Undergraduate Thesis, University of Minnesota</sup>
-
-***
-<sub></sub>
-<h4><a href="http://www.researchgate.net/publication/328878301_Non-visible_Gesturing_in_Telephone_Conversation">Non-visible Gesturing in Telephone Conversation</a></h4>
+<h4>Non-visible Gesturing in Telephone Conversation</h4>
 <sup>2011 - 2012 | University of Minnesota</sup>
 
 ***
@@ -33,17 +28,19 @@ img: null
 <sub></sub>  
 (2016) Transitivity, Grammatical Relations, and Pronominal Argument Complementation in [Moba](http://glottolog.org/resource/languoid/id/moba1244)  
 <sup></sup>
-[(2015) A Pilot Study of an Averaged Perceptron Part-of-Speech Tagger for Latin Raw Text](http://www.researchgate.net/publication/329041126_A_Pilot_Study_of_an_Averaged_Perceptron_Part-of-Speech_Tagger_for_Latin_Raw_Text?_sg=rTO7yEjZyCdo4LCckQod6a8CioHFc6VLBVLfjscilOWjI-DorAliYagFw0oWkMwToDHvT7VWauxINAeJBhcJQ77-VDjixNoP5ebIHzJo.rqR7us7JYFFbyXcKFo4Y4sPdHIec8dMECTyBN4_hBFodMp82erXxBE83a-9zCwfRtxA4gTnKN-kvnPFl57rTPQ)  
+(2015) A Pilot Study of an Averaged Perceptron Part-of-Speech Tagger for Latin Raw Text 
 <sup></sup>
-[(2014) The Role of Phoneme Distribution and Entropy in Predicting Utterance and Morpheme Segmentation](http://www.researchgate.net/publication/329040896_The_Role_of_Phoneme_Distribution_and_Entropy_in_Predicting_Utterance_and_Morpheme_Segmentation)  
+(2014) The Role of Phoneme Distribution and Entropy in Predicting Utterance and Morpheme Segmentation
 <sup></sup>
-[(2014) The Effects of Frequency and Syntax on Semantic Shift: A Pilot Study](http://www.researchgate.net/publication/329040788_The_Effects_of_Frequency_and_Syntax_on_Semantic_Shift)  
+(2014) The Effects of Frequency and Syntax on Semantic Shift: A Pilot Study 
 <sup></sup>
 (2013) An Error Analysis of Automatically Parsed Constructions in the [Groningen Meaning Bank](http://gmb.let.rug.nl/)  
 <sup></sup>
 (2013) On Frequency and Semantic Change  
 <sup></sup>
 (2013) Deictic, Prosodic, and Syntactic Organization of a Temporal Sequence in Interaction  
+<sup></sup>
+(2012) A Syntactic Account of Latin Analytic and Synthetic Verb Conjugation
 <sup></sup>
 (2011) [Optimality Theory](http://en.wikipedia.org/wiki/Optimality_Theory), the Moraic Trochee, and Latin Primary Stress  
 <sup></sup>
