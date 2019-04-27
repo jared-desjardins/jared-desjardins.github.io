@@ -27,23 +27,23 @@ img: null
 (2017) Exploring Object Control in English Caused Motion and Infinitival Control Constructions
 <sub></sub>  
 (2016) Transitivity, Grammatical Relations, and Pronominal Argument Complementation in [Moba](http://glottolog.org/resource/languoid/id/moba1244)  
-<sup></sup>
+<sup></sup>  
 (2015) A Pilot Study of an Averaged Perceptron Part-of-Speech Tagger for Latin Raw Text 
-<sup></sup>
+<sup></sup>  
 (2014) The Role of Phoneme Distribution and Entropy in Predicting Utterance and Morpheme Segmentation
-<sup></sup>
+<sup></sup>  
 (2014) The Effects of Frequency and Syntax on Semantic Shift: A Pilot Study 
-<sup></sup>
+<sup></sup>  
 (2013) An Error Analysis of Automatically Parsed Constructions in the [Groningen Meaning Bank](http://gmb.let.rug.nl/)  
-<sup></sup>
+<sup></sup>  
 (2013) On Frequency and Semantic Change  
-<sup></sup>
+<sup></sup>  
 (2013) Deictic, Prosodic, and Syntactic Organization of a Temporal Sequence in Interaction  
-<sup></sup>
+<sup></sup>  
 (2012) A Syntactic Account of Latin Analytic and Synthetic Verb Conjugation
-<sup></sup>
+<sup></sup>  
 (2011) [Optimality Theory](http://en.wikipedia.org/wiki/Optimality_Theory), the Moraic Trochee, and Latin Primary Stress  
-<sup></sup>
+<sup></sup>  
 (2011) Inclusive and Exclusive Disjunction, and Latin *vel* and *aut*  
 
 <br/>
