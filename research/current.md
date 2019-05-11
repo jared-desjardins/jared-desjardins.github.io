@@ -29,7 +29,7 @@ img: null
 ***
 <sub></sub>
 <h4><a href="http://www.ncurproceedings.org/ojs/index.php/NCUR2012/article/view/181/128">Non-visible Gesturing in Telephone Conversation</a></h4>
-<sup>2012a</sup>
+<sup>2012</sup>
 
 
 <!-- ***
