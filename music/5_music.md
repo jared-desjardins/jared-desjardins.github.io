@@ -11,7 +11,7 @@ img: /img/3B5280-music.png
 
 > <sup>“The past is reinvented and becomes the future. But the lineage is everything.” Philip Glass</sup>
 >
-> <sup>"If there's one thing I really love . . . it's sad music." Danny Elfman</sup> -->
+> <sup>"If there's one thing I really love . . . it's sad music." Danny Elfman</sup>
 
 <br/>
 
@@ -38,8 +38,6 @@ My own music tends to be in minor, and I particularly like experimenting with me
 <h4><a href="http://jared-desjardins.github.io/music/opus1">Opus</a></h4>
 <sup>2013 - 2014</sup>
 
-<!--
-
 ***
 <sub></sub>
 <h4><a href="http://jared-desjardins.github.io/music/fragmenta">Fragmenta</a></h4>
@@ -51,3 +49,11 @@ My own music tends to be in minor, and I particularly like experimenting with me
 <sup>1999 - 2008</sup>  
 
 -->
+
+<br/>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/701143560&color=%23666666&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<br/>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/641818461&color=%23666666&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
