@@ -19,41 +19,20 @@ Music has always been interesting to me - I've been playing piano for over twent
 
 In terms of piano, my favorite periods are the late classical and romantic, with Beethoven, Schubert, Mendelssohn, Sibelius, Brahms, Rachmaninoff, and Chopin being some of my favorite composers spanning those eras. 
 
-My own music tends to be in minor, and I particularly like experimenting with melodic structures, traditional orchestration, and synthesized instrumentation. I would say my musical style is strongly influenced by Western art composers (some of whom are listed above), soundtrack composers (such as [Hans Zimmer](http://en.wikipedia.org/wiki/Hans_Zimmer)), and most recently [Philip Glass](http://en.wikipedia.org/wiki/Philip_Glass). Some of my most recent pieces (and fragments of pieces) are provided at the links below.
+My own music tends to be in minor, and I particularly like experimenting with melodic structures, traditional orchestration, and synthesized instrumentation. I would say my musical style is strongly influenced by Western art composers (some of whom are listed above), soundtrack composers (such as [Hans Zimmer](http://en.wikipedia.org/wiki/Hans_Zimmer)), and most recently [Philip Glass](http://en.wikipedia.org/wiki/Philip_Glass). Some of my most recent pieces (and fragments of pieces) are provided at the links below. -->
 
 ***
 
 <sub></sub>
-<h4><a href="http://jared-desjardins.github.io/music/pianos">A Piece for Three Pianos</a></h4>
-<sup>2018 - 2019</sup>
+<h4><a href="http://soundcloud.com/jared-desjardins/sets/a-piece-for-three-pianos">A Piece for Three Pianos</a></h4>
+<sup>2018-2019</sup>
 
 ***
-
 <sub></sub>
-<h4><a href="http://jared-desjardins.github.io/music/progression">Progression</a></h4>
+<h4><a href="http://soundcloud.com/jared-desjardins/sets/progression">Progression</a></h4>
 <sup>2015</sup>
 
 ***
 <sub></sub>
-<h4><a href="http://jared-desjardins.github.io/music/opus1">Opus</a></h4>
-<sup>2013 - 2014</sup>
-
-***
-<sub></sub>
-<h4><a href="http://jared-desjardins.github.io/music/fragmenta">Fragmenta</a></h4>
-<sup>2006 - 2007</sup>
-
-***
-<sub></sub>
-<h4><a href="http://jared-desjardins.github.io/music/early">Earlier Stuff</a></h4>
-<sup>1999 - 2008</sup>  
-
--->
-
-<br/>
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/701143560&color=%23666666&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
-<br/>
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/641818461&color=%23666666&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<h4><a href="http://soundcloud.com/jared-desjardins/sets/opus-1">Opus</a></h4>
+<sup>2013-2014</sup>
