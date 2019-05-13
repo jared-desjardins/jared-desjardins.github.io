@@ -30,24 +30,30 @@ I'm fascinated by the complexity of human language, and my research is driven by
 
 <sub></sub>
 <h4><a href="http://www.researchgate.net/publication/332974827_Lexicalism_Deconstructed_A_Cross-theoretical_Evaluation_of_Lexical_Integrity_and_the_Nature_of_the_Morphology-Syntax_Interface">Lexicalism Deconstructed: A Cross-theoretical Evaluation of Lexical Integrity and the Nature of the Morphology-Syntax Interface</a></h4>
-<sup>2019</sup>
+<sup>2019 | Preprint</sup>
 
 ***
 <sub></sub>
 <h4><a href="http://www.researchgate.net/publication/329019387_A_Corpus-based_Linguistic_Analysis_of_Latin_Frequentative_Verbs">A Corpus-based Linguistic Analysis of Latin Frequentative Verbs</a></h4>
-<sup>2019</sup>
+<sup>2019 | To appear</sup>
+
+***
+
+<sub></sub>
+<h4>Lexical Integrity and the Problem of Typological Variation</h4>
+<sup>2019 | In preparation</sup>
 
 ***
 <sub></sub>
 <h4>Exploring Object Control in English Caused Motion and Infinitival Control Constructions</h4>
-<sup>2017 - present</sup>
+<sup>2017 - present | In preparation</sup>
 
 ***
 <sub></sub>
 <h4><a href="http://www.researchgate.net/publication/328773017_A_Cross-theoretical_and_Cross-linguistic_Survey_of_Lexical_Integrity_and_the_Morphology-Syntax_Interface">A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Morphology-Syntax Interface</a></h4>
-<sup>2016 - 2018</sup>
+<sup>2016 - 2018 | Doctoral Synthesis Examination</sup>
 
 ***
 <sub></sub>
 <h4><a href="http://www.ncurproceedings.org/ojs/index.php/NCUR2012/article/view/181/128">Non-visible Gesturing in Telephone Conversation</a></h4>
-<sup>2012</sup>
+<sup>2012 | Proceedings of the National Conference on Undergraduate Research</sup>
