@@ -9,11 +9,9 @@ img: /img/405A8C-teaching.png
 
 <div class="col one right">
 
-<!-- first tweet -->
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">CU Linguistics congratulates PhD student Jared Desjardins, winner of the 2019 Graduate School GPTI Excellence award for his outstanding teaching, including innovative flipped classroom in LING 4420: Morphology and Syntax.</p>&mdash; CU Boulder Linguistics (@CuLinguistics) <a href="https://twitter.com/CuLinguistics/status/1115608610711564288?ref_src=twsrc%5Etfw">April 9, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<!-- second tweet -->
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">LING PhD student Jared Desjardins has received the 2019 Graduate Teacher Program Certificate of Excellence. He has brought passion, empathy &amp; innovation to the role over the past 2 years, creating new trainings, mentoring our hardworking grad teachers &amp; reviving our journal CRIL.</p>&mdash; CU Boulder Linguistics (@CuLinguistics) <a href="https://twitter.com/CuLinguistics/status/1114923217146105856?ref_src=twsrc%5Etfw">April 7, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
