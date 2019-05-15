@@ -5,7 +5,7 @@ description: null
 img: /img/405A8C-teaching.png
 ---
 
-{::options parse_block_html="false" /}
+<!--{::options parse_block_html="false" /}
 
 <div class="col one right">
 
@@ -17,7 +17,7 @@ img: /img/405A8C-teaching.png
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">LING PhD student Jared Desjardins has received the 2019 Graduate Teacher Program Certificate of Excellence. He has brought passion, empathy &amp; innovation to the role over the past 2 years, creating new trainings, mentoring our hardworking grad teachers &amp; reviving our journal CRIL.</p>&mdash; CU Boulder Linguistics (@CuLinguistics) <a href="https://twitter.com/CuLinguistics/status/1114923217146105856?ref_src=twsrc%5Etfw">April 7, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-</div>
+</div> -->
 
 
 ***
