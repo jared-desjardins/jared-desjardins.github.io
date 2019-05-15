@@ -22,15 +22,15 @@ In terms of piano, my favorite periods are the late classical and romantic, with
 My own music tends to be in minor, and I particularly like experimenting with melodic structures, traditional orchestration, and synthesized instrumentation. I would say my musical style is strongly influenced by Western art composers (some of whom are listed above), soundtrack composers (such as [Hans Zimmer](http://en.wikipedia.org/wiki/Hans_Zimmer)), and most recently [Philip Glass](http://en.wikipedia.org/wiki/Philip_Glass). Some of my most recent pieces (and fragments of pieces) are provided at the links below. -->
 
 <sub></sub>
-<h4><a href="http://soundcloud.com/jared-desjardins/sets/a-piece-for-three-pianos">A Piece for Three Pianos</a></h4>
+<h4><a href="https://soundcloud.com/jared-desjardins/sets/a-piece-for-three-pianos">A Piece for Three Pianos</a></h4>
 <sup>2018-2019</sup>
 
 ***
 <sub></sub>
-<h4><a href="http://soundcloud.com/jared-desjardins/sets/progression">Progression</a></h4>
+<h4><a href="https://soundcloud.com/jared-desjardins/sets/progression">Progression</a></h4>
 <sup>2015</sup>
 
 ***
 <sub></sub>
-<h4><a href="http://soundcloud.com/jared-desjardins/sets/opus-1">Opus</a></h4>
+<h4><a href="https://soundcloud.com/jared-desjardins/sets/opus-1">Opus</a></h4>
 <sup>2013-2014</sup>
