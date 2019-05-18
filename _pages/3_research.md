@@ -33,15 +33,15 @@ I'm fascinated by the complexity of human language, and my research is driven by
 <sup>2019 | Preprint</sup>
 
 ***
+
+<sub></sub>
+<h4><a href="http://www.researchgate.net/publication/333194142_Lexical_Integrity_and_Its_Cross-linguistic_Validity">Lexical Integrity and Its Cross-linguistic Validity</a></h4>
+<sup>2019 | Preprint</sup>
+
+***
 <sub></sub>
 <h4><a href="http://www.researchgate.net/publication/329019387_A_Corpus-based_Linguistic_Analysis_of_Latin_Frequentative_Verbs">A Corpus-based Linguistic Analysis of Latin Frequentative Verbs</a></h4>
 <sup>2019 | To appear</sup>
-
-***
-
-<sub></sub>
-<h4>Lexical Integrity and the Problem of Typological Variation</h4>
-<sup>2019 | In preparation</sup>
 
 ***
 <sub></sub>
