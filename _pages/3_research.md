@@ -35,7 +35,7 @@ I'm fascinated by the complexity of human language, and my research is driven by
 ***
 
 <sub></sub>
-<h4><a href="http://www.researchgate.net/publication/333194142_Lexical_Integrity_and_Its_Cross-linguistic_Validity">Lexical Integrity and Its Cross-linguistic Validity</a></h4>
+<h4><a href="http://www.researchgate.net/publication/333202655_Lexical_Integrity_and_the_Cross-linguistic_Validity_of_a_Morphology-Syntax_Interface/stats">Lexical Integrity and the Cross-linguistic Validity of a Morphology-Syntax Interface</a></h4>
 <sup>2019 | Preprint</sup>
 
 ***
