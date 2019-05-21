@@ -35,7 +35,7 @@ I'm fascinated by the complexity of human language, and my research is driven by
 ***
 
 <sub></sub>
-<h4><a href="http://www.researchgate.net/publication/333202655_Lexical_Integrity_and_the_Cross-linguistic_Validity_of_a_Morphology-Syntax_Interface/stats">Lexical Integrity and the Cross-linguistic Validity of a Morphology-Syntax Interface</a></h4>
+<h4><a href="http://www.researchgate.net/publication/333244770_Lexicalism_Revisited_The_Cross-linguistic_Nature_of_Lexical_Integrity_and_a_Morphology-Syntax_Interface">Lexicalism Revisited: The Cross-linguistic Nature of Lexical Integrity and a Morphology-Syntax Interface</a></h4>
 <sup>2019 | Preprint</sup>
 
 ***
@@ -51,7 +51,7 @@ I'm fascinated by the complexity of human language, and my research is driven by
 ***
 <sub></sub>
 <h4><a href="http://www.researchgate.net/publication/328773017_A_Cross-theoretical_and_Cross-linguistic_Survey_of_Lexical_Integrity_and_the_Morphology-Syntax_Interface">A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Morphology-Syntax Interface</a></h4>
-<sup>2016 - 2018 | Doctoral Synthesis Examination</sup>
+<sup>2018 (rev. 05/2019) | Doctoral Synthesis Examination</sup>
 
 ***
 <sub></sub>
