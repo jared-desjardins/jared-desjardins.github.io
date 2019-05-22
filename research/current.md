@@ -32,7 +32,7 @@ img: null
 <sup>2012</sup>
 
 
-<!-- ***
+***
 <sub></sub>
 <h3>other papers and pilot studies</h3>
 <p></p>
@@ -54,7 +54,7 @@ img: null
 <sup></sup>
 (2011) [Optimality Theory](http://en.wikipedia.org/wiki/Optimality_Theory), the Moraic Trochee, and Latin Primary Stress  
 <sup></sup>
-(2011) Inclusive and Exclusive Disjunction, and Latin *vel* and *aut* -->
+(2011) Inclusive and Exclusive Disjunction, and Latin *vel* and *aut* 
 
 <br/>
 
