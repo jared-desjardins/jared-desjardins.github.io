@@ -29,6 +29,11 @@ I'm fascinated by the complexity of human language, and my research is driven by
 ***
 
 <sub></sub>
+<h4><a href="http://www.researchgate.net/publication/333614556_A_Corpus-based_Linguistic_Analysis_of_Latin_Frequentative_Verbs">A Corpus-based Linguistic Analysis of Latin Frequentative Verbs</a></h4>
+<sup>2019 | <a href="http://scholar.colorado.edu/cril/vol24/iss1/">Colorado Research in Linguistics (CRIL) Vol. 24</a></sup>
+
+***
+<sub></sub>
 <h4><a href="http://www.researchgate.net/publication/332974827_Lexicalism_Deconstructed_A_Cross-theoretical_Evaluation_of_Lexical_Integrity_and_the_Nature_of_the_Morphology-Syntax_Interface">Lexicalism Deconstructed: A Cross-theoretical Evaluation of Lexical Integrity and the Nature of the Morphology-Syntax Interface</a></h4>
 <sup>2019 | Preprint</sup>
 
@@ -37,11 +42,6 @@ I'm fascinated by the complexity of human language, and my research is driven by
 <sub></sub>
 <h4><a href="http://www.researchgate.net/publication/333244770_Lexicalism_Revisited_The_Cross-linguistic_Nature_of_Lexical_Integrity_and_a_Morphology-Syntax_Interface">Lexicalism Revisited: The Cross-linguistic Nature of Lexical Integrity and a Morphology-Syntax Interface</a></h4>
 <sup>2019 | Preprint</sup>
-
-***
-<sub></sub>
-<h4><a href="http://www.researchgate.net/publication/329019387_A_Corpus-based_Linguistic_Analysis_of_Latin_Frequentative_Verbs">A Corpus-based Linguistic Analysis of Latin Frequentative Verbs</a></h4>
-<sup>2019 | To appear</sup>
 
 ***
 <sub></sub>
