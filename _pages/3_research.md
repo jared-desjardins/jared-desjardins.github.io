@@ -40,8 +40,8 @@ I'm fascinated by the complexity of human language, and my research is driven by
 ***
 
 <sub></sub>
-<h4><a href="http://www.researchgate.net/publication/333244770_Lexicalism_Revisited_The_Cross-linguistic_Nature_of_Lexical_Integrity_and_a_Morphology-Syntax_Interface">Lexicalism Revisited: The Cross-linguistic Nature of Lexical Integrity and a Morphology-Syntax Interface</a></h4>
-<sup>2019 | Preprint</sup>
+<h4>The Typology of Lexicalism and Its Theoretical Implications</h4>
+<sup>2019 | In preparation</sup>
 
 ***
 <sub></sub>
