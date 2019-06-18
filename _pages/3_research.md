@@ -41,7 +41,7 @@ I'm fascinated by the complexity of human language, and my research is driven by
 
 <sub></sub>
 <h4>The Typology of Lexical Integrity and Its Theoretical Implications</h4>
-<sup>2019 | In preparation</sup>
+<sup>2018 - present | In preparation</sup>
 
 ***
 <sub></sub>
