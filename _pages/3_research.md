@@ -35,13 +35,13 @@ I'm fascinated by the complexity of human language, and my research is driven by
 ***
 <sub></sub>
 <h4><a href="http://www.researchgate.net/publication/332974827_Lexicalism_Deconstructed_A_Cross-theoretical_Evaluation_of_Lexical_Integrity_and_the_Nature_of_the_Morphology-Syntax_Interface">Lexicalism Deconstructed: A Cross-theoretical Evaluation of Lexical Integrity and the Nature of the Morphology-Syntax Interface</a></h4>
-<sup>2019 | Preprint</sup>
+<sup>2019 - present | Preprint</sup>
 
 ***
 
 <sub></sub>
-<h4>The Typology of Lexical Integrity and Its Theoretical Implications</h4>
-<sup>2018 - present | In preparation</sup>
+<h4><a href="http://www.researchgate.net/publication/334684120_Revisiting_Lexical_Integrity_the_Generative_Enterprise_and_Contemporary_General_Linguistics">Revisiting Lexical Integrity, the Generative Enterprise and Contemporary General Linguistics</a></h4>
+<sup>2019 - present | Preprint</sup>
 
 ***
 <sub></sub>
