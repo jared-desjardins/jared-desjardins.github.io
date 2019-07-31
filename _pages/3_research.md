@@ -51,7 +51,7 @@ I'm fascinated by the complexity of human language, and my research is driven by
 ***
 <sub></sub>
 <h4><a href="http://www.researchgate.net/publication/328773017_A_Cross-theoretical_and_Cross-linguistic_Survey_of_Lexical_Integrity_and_the_Morphology-Syntax_Interface">A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Morphology-Syntax Interface</a></h4>
-<sup>2018 (rev. 05/2019) | Doctoral Synthesis Examination</sup>
+<sup>2016 - 2018 (rev. 05/2019) | Doctoral Synthesis Examination</sup>
 
 ***
 <sub></sub>
