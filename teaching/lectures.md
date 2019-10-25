@@ -33,7 +33,7 @@ img: null
 
 ***
 <sub></sub>
-<h4>CGesturing on the Telephone: Tendencies in Relation to Face-to-Face Conversation</h4>
+<h4>Gesturing on the Telephone: Tendencies in Relation to Face-to-Face Conversation</h4>
 <sup>March 2012 | LING 5462 Field Research in Spoken Language, Dr. Polly Szatrowski | University of Minnesota Twin Cities</sup>
 
 <br/>
