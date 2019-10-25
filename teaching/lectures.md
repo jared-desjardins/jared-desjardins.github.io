@@ -9,22 +9,22 @@ img: null
 
 <sub></sub>
 <h4>Why Grammar ≠ Syntax</h4>
-<sup>October 2019 | LING 7420 Syntactic Theory, Dr. Laura Michaelis | University of Colorado Boulder</sup>
+<sup>October 2019 | LING 7420 Syntactic Theory | University of Colorado Boulder</sup>
 
 ***
 <sub></sub>
 <h4>Syntax: Phrase Structure and Constituency</h4>
-<sup>September 2018 | LING 5420 Morphology and Syntax, Dr. Barbara Fox | University of Colorado Boulder</sup>
+<sup>September 2018 | LING 5420 Morphology and Syntax | University of Colorado Boulder</sup>
 
 ***
 <sub></sub>
 <h4>Head Driven Phrase Structure Grammar: Linguistic Theory and Formalism</h4>
-<sup>October 2016 | LING 6520 Computational Grammars, Dr. Martha Palmer | University of Colorado Boulder</sup>
+<sup>October 2016 | LING 6520 Computational Grammars | University of Colorado Boulder</sup>
 
 ***
 <sub></sub>
 <h4>Head Driven Phrase Structure Grammar: Long Distance Dependencies and Lexical Resource Semantics</h4>
-<sup>October 2016 | LING 6520 Computational Grammars, Dr. Martha Palmer | University of Colorado Boulder</sup>
+<sup>October 2016 | LING 6520 Computational Grammars | University of Colorado Boulder</sup>
 
 ***
 <sub></sub>
@@ -34,7 +34,7 @@ img: null
 ***
 <sub></sub>
 <h4>Gesturing on the Telephone: Tendencies in Relation to Face-to-Face Conversation</h4>
-<sup>March 2012 | LING 5462 Field Research in Spoken Language, Dr. Polly Szatrowski | University of Minnesota Twin Cities</sup>
+<sup>March 2012 | LING 5462 Field Research in Spoken Language | University of Minnesota Twin Cities</sup>
 
 <br/>
 
