@@ -52,3 +52,7 @@ img: /img/405A8C-teaching.png
 <sub></sub>
 <h4>LING 5430 Semantics and Pragmatics</h4>
 <sup>Grader | Spring 2018 | Dr. Laura Michaelis</sup>
+
+***
+<sub></sub>
+<h4><a href="http://jared-desjardins.github.io/teaching/lectures">Invited Guest Lectures</a</h4>
