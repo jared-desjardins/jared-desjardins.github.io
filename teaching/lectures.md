@@ -29,7 +29,7 @@ img: null
 ***
 <sub></sub>
 <h4>Combinatory Categorial Grammar, Lambda Calculus, and Semantic Representation in Boxer</h4>
-<sup>October 2014 | LING 7800/CSCI 7000 Computational Lexical Semantics, Dr. Martha Palmer | University of Colorado Boulder</sup>
+<sup>October 2014 | LING 7800/CSCI 7000 Computational Lexical Semantics | University of Colorado Boulder</sup>
 
 ***
 <sub></sub>
