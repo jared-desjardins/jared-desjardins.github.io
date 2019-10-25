@@ -55,4 +55,5 @@ img: /img/405A8C-teaching.png
 
 ***
 <sub></sub>
-<h4><a href="http://jared-desjardins.github.io/teaching/lectures">Invited Guest Lectures</a</h4>
+<h4><a href="http://jared-desjardins.github.io/teaching/lectures">Invited Guest Lectures</a></h4>
+<sup>2014 - present</sup>
