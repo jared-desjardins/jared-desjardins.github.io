@@ -57,3 +57,7 @@ I'm fascinated by the complexity of human language, and my research is driven by
 <sub></sub>
 <h4><a href="http://www.ncurproceedings.org/ojs/index.php/NCUR2012/article/view/181/128">Non-visible Gesturing in Telephone Conversation</a></h4>
 <sup>2012 | Proceedings of the National Conference on Undergraduate Research</sup>
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
