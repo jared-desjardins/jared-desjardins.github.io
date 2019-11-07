@@ -45,9 +45,9 @@ I'm fascinated by the complexity of human language, and my research is driven by
 <h4>Presentations</h4>
 
 <ul>
-  <li><span>Pleiss, M. and J. Desjardins. November 2019</span>: <a href="http://podnetwork.org/news-events/annual-conference/">Measuring the Impacts and Experiences of Video Peer Observations</a> <em> POD Network Annual Conference. Pittsburgh. November 13 – 17, 2019.</em></li>
+  <li><span>Pleiss, M. and J. Desjardins. 2019</span>: <a href="http://podnetwork.org/news-events/annual-conference/">Measuring the Impacts and Experiences of Video Peer Observations</a> <em> POD Network Annual Conference. Pittsburgh. November 13 – 17.</em></li>
   
-  <li><span>Desjardins, J. April 2019</span>: <a href="http://www.colorado.edu/linguistics/workshop-constructional-meaning-and-morphology">What is the Correct Semantics for Morphology? The Case of Frequentative Verbs in Latin</a> <em> Workshop on Constructional Meaning and Morphology. University of Colorado, Boulder. April 5, 2019.</em></li>
+  <li><span>Desjardins, J. 2019</span>: <a href="http://www.colorado.edu/linguistics/workshop-constructional-meaning-and-morphology">What is the Correct Semantics for Morphology? The Case of Frequentative Verbs in Latin</a> <em> Workshop on Constructional Meaning and Morphology. University of Colorado, Boulder. April 5.</em></li>
   
 </ul>
 
