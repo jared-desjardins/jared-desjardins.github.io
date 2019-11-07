@@ -27,6 +27,9 @@ I'm fascinated by the complexity of human language, and my research is driven by
 <!-- same as (copied from) what is under current/past research -->
 
 <h4>Papers</h4>
+<ul>
+<li><span>Pleiss, M. and J. Desjardins. 2019.</span>: <a href="{{ site.baseurl }}{{ post.url }}">The Influence of Anxiety in Graduate Student Peer Video Consultations</a></li>
+</ul>
 
 * Pleiss, M. and J. Desjardins. 2019. **The Influence of Anxiety in Graduate Student Peer Video Consultations**. _In preparation_.
 * Desjardins, J. 2019. **Grammar ≠ Syntax: Lexical Integrity, the Generative Enterprise, and Linguistic Form and Function**. _Unpublished manuscript_.
