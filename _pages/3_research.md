@@ -59,9 +59,9 @@ I'm fascinated by the complexity of human language, and my research is driven by
 
 <ul>
   
-  <li><span>2015</span>: <a>A Pilot Study of an Averaged Perceptron Part-of-Speech Tagger for Latin Raw Text</a></li>
-  <li><span>2014</span>: <a>The Role of Phoneme Distribution and Entropy in Predicting Utterance and Morpheme Segmentation</a></li>
-  <li><span>2014</span>: <a>The Effects of Frequency and Syntax on Semantic <em>Shift</em></a></li>
-  <li><span>2013</span>: <a>Frequency and Semantic Change</a></li>
+  <li><span>2015</span>: <a>A Pilot Study of an Averaged Perceptron Part-of-Speech Tagger for Latin Raw Text.</a></li>
+  <li><span>2014</span>: <a>The Role of Phoneme Distribution and Entropy in Predicting Utterance and Morpheme Segmentation.</a></li>
+  <li><span>2014</span>: <a>The Effects of Frequency and Syntax on Semantic <em>Shift</em>.</a></li>
+  <li><span>2013</span>: <a>Frequency and Semantic Change.</a></li>
   
 </ul>
