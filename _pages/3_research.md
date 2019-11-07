@@ -26,6 +26,7 @@ I'm fascinated by the complexity of human language, and my research is driven by
 
 <!-- same as (copied from) what is under current/past research -->
 
+***
 <h4><strong>Papers</strong></h4>
 
 <ul>
@@ -42,6 +43,7 @@ I'm fascinated by the complexity of human language, and my research is driven by
   
 </ul>
 
+***
 <h4><strong>Presentations</strong></h4>
 
 <ul>
@@ -51,7 +53,7 @@ I'm fascinated by the complexity of human language, and my research is driven by
   
 </ul>
 
-
+***
 <h4><strong>Pilot Studies</strong></h4>
 
 <ul>
