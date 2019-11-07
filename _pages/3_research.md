@@ -27,51 +27,28 @@ I'm fascinated by the complexity of human language, and my research is driven by
 <!-- same as (copied from) what is under current/past research -->
 
 <h4>Papers</h4>
+
 <ul>
+  
   <li><span>Pleiss, M. and J. Desjardins. 2019</span>: <a href="{{ site.baseurl }}{{ post.url }}">The Influence of Anxiety in Graduate Student Peer Video Consultations.</a> <span> <em>In preparation.</em></span></li>
+  
   <li><span>Desjardins, J. 2019</span>: <a href="http://www.researchgate.net/publication/335682229_Grammar_Syntax_Lexical_Integrity_the_Generative_Enterprise_and_Linguistic_Form_and_Function">Grammar ≠ Syntax: Lexical Integrity, the Generative Enterprise, and Linguistic Form and Function.</a> <span> <em> Unpublished manuscript.</em></span></li>
+  
   <li><span>Desjardins, J. 2019</span>: <a href="http://www.researchgate.net/publication/332974827_Lexicalism_Deconstructed_A_Cross-theoretical_Evaluation_of_Lexical_Integrity_and_the_Nature_of_the_Morphology-Syntax_Interface">Lexicalism Deconstructed: A Cross-theoretical Evaluation of Lexical Integrity and the Nature of the Morphology-Syntax Interface.</a> <em> Unpublished manuscript.</em></li>
+  
   <li><span>Desjardins, J. 2019</span>: <a href="http://www.researchgate.net/publication/333614556_A_Corpus-based_Linguistic_Analysis_of_Latin_Frequentative_Verbs">A Corpus-based Linguistic Analysis of Latin Frequentative Verbs.</a> <em> Colorado Research in Linguistics, Vol. 24.</em></li>
+  
   <li><span>Desjardins, J. 2012</span>: <a href="http://www.ncurproceedings.org/ojs/index.php/NCUR2012/article/view/181/128">Non-visible Gesturing in Telephone Conversation.</a> <em> The Proceedings of the National Conference on Undergraduate Research 2012.</em></li>
+  
 </ul>
 
 <h4>Presentations</h4>
+
 <ul>
-  <li><span>Pleiss, M. and J. Desjardins. November 2019</span>: <a href="http://podnetwork.org/news-events/annual-conference/">Measuring the Impacts and Experiences of Video Peer Observations</a></li>
-  <li><span>Desjardins, J. April 2019</span>: <a href="http://www.colorado.edu/linguistics/workshop-constructional-meaning-and-morphology">What is the Correct Semantics for Morphology? The Case of Frequentative Verbs in Latin</a></li>
+  <li><span>Pleiss, M. and J. Desjardins. November 2019</span>: <a href="http://podnetwork.org/news-events/annual-conference/">Measuring the Impacts and Experiences of Video Peer Observations</a> <em> POD Network Annual Conference. Pittsburgh. November 13 – 17, 2019.</em></li>
+  
+  <li><span>Desjardins, J. April 2019</span>: <a href="http://www.colorado.edu/linguistics/workshop-constructional-meaning-and-morphology">What is the Correct Semantics for Morphology? The Case of Frequentative Verbs in Latin</a> <em> Workshop on Constructional Meaning and Morphology. University of Colorado, Boulder. April 5, 2019.</em></li>
+  
 </ul>
 
 <!--
-
-***
-
-<sub></sub>
-<h4><a href="http://www.researchgate.net/publication/333614556_A_Corpus-based_Linguistic_Analysis_of_Latin_Frequentative_Verbs">A Corpus-based Linguistic Analysis of Latin Frequentative Verbs</a></h4>
-<sup>2019 | <a href="http://scholar.colorado.edu/cril/vol24/iss1/">Colorado Research in Linguistics (CRIL) Vol. 24</a></sup>
-
-***
-
-<sub></sub>
-<h4><a href="http://www.researchgate.net/publication/335682229_Grammar_Syntax_Lexical_Integrity_the_Generative_Enterprise_and_Linguistic_Form_and_Function">Grammar ≠ Syntax: Lexical Integrity, the Generative Enterprise, and Linguistic Form and Function</a></h4>
-<sup>2019 - present | Preprint</sup>
-
-***
-<sub></sub>
-<h4><a href="http://www.researchgate.net/publication/332974827_Lexicalism_Deconstructed_A_Cross-theoretical_Evaluation_of_Lexical_Integrity_and_the_Nature_of_the_Morphology-Syntax_Interface">Lexicalism Deconstructed: A Cross-theoretical Evaluation of Lexical Integrity and the Nature of the Morphology-Syntax Interface</a></h4>
-<sup>2019 - present | Preprint</sup>
-
-***
-<sub></sub>
-<h4>Exploring Object Control in English Caused Motion and Infinitival Control Constructions</h4>
-<sup>2017 - present | In preparation</sup>
-
-***
-<sub></sub>
-<h4><a href="http://www.researchgate.net/publication/328773017_A_Cross-theoretical_and_Cross-linguistic_Survey_of_Lexical_Integrity_and_the_Morphology-Syntax_Interface">A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Morphology-Syntax Interface</a></h4>
-<sup>2016 - 2018 (rev. 05/2019) | Doctoral Synthesis Examination</sup>
-
-***
-<sub></sub>
-<h4><a href="http://www.ncurproceedings.org/ojs/index.php/NCUR2012/article/view/181/128">Non-visible Gesturing in Telephone Conversation</a></h4>
-<sup>2012 | Proceedings of the National Conference on Undergraduate Research</sup>
--->
