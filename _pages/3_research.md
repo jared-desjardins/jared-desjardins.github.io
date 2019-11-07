@@ -26,7 +26,7 @@ I'm fascinated by the complexity of human language, and my research is driven by
 
 <!-- same as (copied from) what is under current/past research -->
 
-<h4>Papers</h4>
+<h4><strong>Papers</strong></h4>
 
 <ul>
   
@@ -42,7 +42,7 @@ I'm fascinated by the complexity of human language, and my research is driven by
   
 </ul>
 
-<h4>Presentations</h4>
+<h4><strong>Presentations</strong></h4>
 
 <ul>
   <li><span>Pleiss, M. and J. Desjardins. 2019</span>: <a href="http://podnetwork.org/news-events/annual-conference/">Measuring the Impacts and Experiences of Video Peer Observations</a> <em> POD Network Annual Conference. Pittsburgh PA. November 13 – 17.</em></li>
