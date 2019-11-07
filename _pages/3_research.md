@@ -29,6 +29,7 @@ I'm fascinated by the complexity of human language, and my research is driven by
 <h4>Papers</h4>
 <ul>
 <li><span>Pleiss, M. and J. Desjardins. 2019.</span>: <a href="{{ site.baseurl }}{{ post.url }}">The Influence of Anxiety in Graduate Student Peer Video Consultations</a></li>
+<li><span>Pleiss, M. and J. Desjardins. 2019.</span>: <a href="http://www.researchgate.net/publication/335682229_Grammar_Syntax_Lexical_Integrity_the_Generative_Enterprise_and_Linguistic_Form_and_Function">rammar ≠ Syntax: Lexical Integrity, the Generative Enterprise, and Linguistic Form and Function</a></li>
 </ul>
 
 * Pleiss, M. and J. Desjardins. 2019. **The Influence of Anxiety in Graduate Student Peer Video Consultations**. _In preparation_.
