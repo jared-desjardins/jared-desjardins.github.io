@@ -28,13 +28,13 @@ I'm fascinated by the complexity of human language, and my research is driven by
 
 <h4>Papers</h4>
 
-...* paper 1
-...* paper 2
+* paper 1
+* paper 2
 
 <h4>Presentations</h4>
 
-...* paper 1
-...* paper 2
+* paper 1
+* paper 2
 
 ***
 
