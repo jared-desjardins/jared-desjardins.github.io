@@ -28,7 +28,7 @@ I'm fascinated by the complexity of human language, and my research is driven by
 
 <h4>Papers</h4>
 <ul>
-  <li><span>Pleiss, M. and J. Desjardins. 2019</span>: <a href="{{ site.baseurl }}{{ post.url }}">The Influence of Anxiety in Graduate Student Peer Video Consultations</a></li>
+  <li><span>Pleiss, M. and J. Desjardins. 2019</span>: <a href="{{ site.baseurl }}{{ post.url }}">The Influence of Anxiety in Graduate Student Peer Video Consultations.</a><span>Pleiss, M. and J. Desjardins. 2019</span></li>
   <li><span>Desjardins, J. 2019</span>: <a href="http://www.researchgate.net/publication/335682229_Grammar_Syntax_Lexical_Integrity_the_Generative_Enterprise_and_Linguistic_Form_and_Function">Grammar ≠ Syntax: Lexical Integrity, the Generative Enterprise, and Linguistic Form and Function</a></li>
   <li><span>Desjardins, J. 2019</span>: <a href="http://www.researchgate.net/publication/332974827_Lexicalism_Deconstructed_A_Cross-theoretical_Evaluation_of_Lexical_Integrity_and_the_Nature_of_the_Morphology-Syntax_Interface">Lexicalism Deconstructed: A Cross-theoretical Evaluation of Lexical Integrity and the Nature of the Morphology-Syntax Interface</a></li>
   <li><span>Desjardins, J. 2019</span>: <a href="http://www.researchgate.net/publication/333614556_A_Corpus-based_Linguistic_Analysis_of_Latin_Frequentative_Verbs">A Corpus-based Linguistic Analysis of Latin Frequentative Verbs</a></li>
