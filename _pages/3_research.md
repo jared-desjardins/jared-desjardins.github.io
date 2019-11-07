@@ -28,13 +28,18 @@ I'm fascinated by the complexity of human language, and my research is driven by
 
 <h4>Papers</h4>
 
-* paper 1
-* paper 2
+* Pleiss, M. and J. Desjardins. 2019. **The Influence of Anxiety in Graduate Student Peer Video Consultations**. _In preparation_.
+* Desjardins, J. 2019. **Grammar ≠ Syntax: Lexical Integrity, the Generative Enterprise, and Linguistic Form and Function**. _Unpublished manuscript_.
+* Desjardins, J. 2019. **Lexicalism Deconstructed: A Cross-theoretical Evaluation of Lexical Integrity and the Nature of the Morphology-Syntax Interface**. _Unpublished manuscript_.
+* Desjardins, J. 2019. **A Corpus-based Linguistic Analysis of Latin Frequentative Verbs**. _Colorado Research in Linguistics (CRIL) Vol. 24_.
+* Desjardins, J. 2012. **Non-visible Gesturing in Telephone Conversation**. _The Proceedings of the National Conference on Undergraduate Research 2012: 910 – 918_.
 
 <h4>Presentations</h4>
 
-* paper 1
-* paper 2
+* Pleiss, M. and J. Desjardins. **Measuring the Impacts and Experiences of Video Peer Observations**. _The Professional and Organizational Development (POD) Network Annual Conference_. Pittsburgh. November 13 – 17, 2019.
+* Desjardins, J. **What is the Correct Semantics for Morphology? The Case of Frequentative Verbs in Latin**. _Workshop on Constructional Meaning and Morphology_. University of Colorado, Boulder. April 5, 2019.
+
+<!--
 
 ***
 
@@ -67,3 +72,4 @@ I'm fascinated by the complexity of human language, and my research is driven by
 <sub></sub>
 <h4><a href="http://www.ncurproceedings.org/ojs/index.php/NCUR2012/article/view/181/128">Non-visible Gesturing in Telephone Conversation</a></h4>
 <sup>2012 | Proceedings of the National Conference on Undergraduate Research</sup>
+-->
