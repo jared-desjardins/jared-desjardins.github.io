@@ -28,20 +28,16 @@ I'm fascinated by the complexity of human language, and my research is driven by
 
 <h4>Papers</h4>
 <ul>
-<li><span>Pleiss, M. and J. Desjardins. 2019.</span>: <a href="{{ site.baseurl }}{{ post.url }}">The Influence of Anxiety in Graduate Student Peer Video Consultations</a></li>
-<li><span>Pleiss, M. and J. Desjardins. 2019.</span>: <a href="http://www.researchgate.net/publication/335682229_Grammar_Syntax_Lexical_Integrity_the_Generative_Enterprise_and_Linguistic_Form_and_Function">rammar ≠ Syntax: Lexical Integrity, the Generative Enterprise, and Linguistic Form and Function</a></li>
+  <li><span>Pleiss, M. and J. Desjardins. 2019:</span>: <a href="{{ site.baseurl }}{{ post.url }}">The Influence of Anxiety in Graduate Student Peer Video Consultations</a></li>
+  <li><span>Desjardins, J. 2019:</span>: <a href="http://www.researchgate.net/publication/335682229_Grammar_Syntax_Lexical_Integrity_the_Generative_Enterprise_and_Linguistic_Form_and_Function">Grammar ≠ Syntax: Lexical Integrity, the Generative Enterprise, and Linguistic Form and Function</a></li>
+  <li><span>Desjardins, J. 2019:</span>: <a href="http://www.researchgate.net/publication/332974827_Lexicalism_Deconstructed_A_Cross-theoretical_Evaluation_of_Lexical_Integrity_and_the_Nature_of_the_Morphology-Syntax_Interface">Lexicalism Deconstructed: A Cross-theoretical Evaluation of Lexical Integrity and the Nature of the Morphology-Syntax Interface</a></li>
+  <li><span>Desjardins, J. 2019:</span>: <a href="http://www.researchgate.net/publication/333614556_A_Corpus-based_Linguistic_Analysis_of_Latin_Frequentative_Verbs">A Corpus-based Linguistic Analysis of Latin Frequentative Verbs</a></li>
+  <li><span>Desjardins, J. 2012:</span>: <a href="http://www.ncurproceedings.org/ojs/index.php/NCUR2012/article/view/181/128">Non-visible Gesturing in Telephone Conversation</a></li>
 </ul>
 
-* Pleiss, M. and J. Desjardins. 2019. **The Influence of Anxiety in Graduate Student Peer Video Consultations**. _In preparation_.
-* Desjardins, J. 2019. **Grammar ≠ Syntax: Lexical Integrity, the Generative Enterprise, and Linguistic Form and Function**. _Unpublished manuscript_.
-* Desjardins, J. 2019. **Lexicalism Deconstructed: A Cross-theoretical Evaluation of Lexical Integrity and the Nature of the Morphology-Syntax Interface**. _Unpublished manuscript_.
-* Desjardins, J. 2019. **A Corpus-based Linguistic Analysis of Latin Frequentative Verbs**. _Colorado Research in Linguistics (CRIL) Vol. 24_.
-* Desjardins, J. 2012. **Non-visible Gesturing in Telephone Conversation**. _The Proceedings of the National Conference on Undergraduate Research 2012: 910 – 918_.
-
 <h4>Presentations</h4>
-
-* Pleiss, M. and J. Desjardins. **Measuring the Impacts and Experiences of Video Peer Observations**. _The Professional and Organizational Development (POD) Network Annual Conference_. Pittsburgh. November 13 – 17, 2019.
-* Desjardins, J. **What is the Correct Semantics for Morphology? The Case of Frequentative Verbs in Latin**. _Workshop on Constructional Meaning and Morphology_. University of Colorado, Boulder. April 5, 2019.
+  <li><span>Pleiss, M. and J. Desjardins. November 2019:</span>: <a href="http://podnetwork.org/news-events/annual-conference/">Measuring the Impacts and Experiences of Video Peer Observations</a></li>
+  <li><span>Desjardins, J. April 2019:</span>: <a href="http://www.colorado.edu/linguistics/workshop-constructional-meaning-and-morphology">What is the Correct Semantics for Morphology? The Case of Frequentative Verbs in Latin</a></li>
 
 <!--
 
