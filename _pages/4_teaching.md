@@ -19,41 +19,33 @@ img: /img/405A8C-teaching.png
 -->
 
 ***
-<sub></sub>
-<h4>Lead Graduate Teacher</h4>
-<sup>Department of Linguistics, Graduate Teacher Program | 2017 - 2019</sup>
+<h4>Instructor of Record</h4>
+<ul>
+  <li><span>LING 4420 Morphology and Syntax</span></li>
+  <li><span>LING 1020 Languages of the World</span></li>
+</ul>
 
 ***
-<sub></sub>
-<h4>LING 4420 Morphology and Syntax</h4>
-<sup>Instructor of Record | Spring 2018 - 2019, Fall 2018 - 2019</sup>
+<h4>Graduate Teaching Assistant</h4>
+<ul>
+  <li><span>LING 1020 Languages of the World</span></li>
+  <li><span>LING/CLAS 1010 The Study of Words</span></li>
+  <li><span>LING 1000 Language in US Society</span></li>
+</ul>
 
 ***
-<sub></sub>
-<h4>LING 1020 Languages of the World</h4>
-<sup>Instructor of Record | Spring 2015 - 2017, Fall 2015 - 2016, Summer 2019</sup>  
-  
-***
-<sub></sub>
-<h4>LING/CLAS 1010 The Study of Words</h4>
-<sup>Graduate Teaching Assistant | Spring 2014</sup>
+<h4>Grader</h4>
+<ul>
+  <li><span>LING 5030 Semantics and Pragmatics</span></li>
+  <li><span>LING 7800/CSCI 7000 Computational Lexical Semantics</span></li>
+</ul>
 
 ***
-<sub></sub>
-<h4>LING 1000 Language in US Society</h4>
-<sup>Graduate Teaching Assistant | Fall 2014</sup>
-
-***
-<sub></sub>
-<h4>LING 7800/CSCI 7000 Computational Lexical Semantics</h4>
-<sup>Grader | Fall 2014; Spring 2016, 2017 | Dr. Martha Palmer</sup>
-
-***
-<sub></sub>
-<h4>LING 5430 Semantics and Pragmatics</h4>
-<sup>Grader | Spring 2018 | Dr. Laura Michaelis</sup>
-
-***
-<sub></sub>
-<h4><a href="http://jared-desjardins.github.io/teaching/lectures">Invited Guest Lectures</a></h4>
-<sup>2012 - present</sup>
+<h4>Invited Guest Lectures</h4>
+<ul>
+  <li><span>LING 7420 Syntactic Theory</span></li>
+  <li><span>LING 5420 Morphology and Syntax</span></li>
+  <li><span>LING 6520 Computational Grammars</span></li>
+  <li><span>LING 7800/CSCI 7000 Computational Lexical Semantics</span></li>
+  <li><span>LING 5462 Field Research in Spoken Language (University of Minnesota)</span></li>
+</ul>
