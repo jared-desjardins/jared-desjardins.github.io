@@ -41,7 +41,7 @@ img: /img/405A8C-teaching.png
 </ul>
 
 ***
-<h4>Invited Guest Lectures</h4>
+<h4>Invited Guest Lecturer</h4>
 <ul>
   <li><span>LING 7420 Syntactic Theory</span></li>
   <li><span>LING 5420 Morphology and Syntax</span></li>
