@@ -36,8 +36,10 @@ I'm fascinated by the complexity of human language, and my research is driven by
 </ul>
 
 <h4>Presentations</h4>
+<ul>
   <li><span>Pleiss, M. and J. Desjardins. November 2019</span>: <a href="http://podnetwork.org/news-events/annual-conference/">Measuring the Impacts and Experiences of Video Peer Observations</a></li>
   <li><span>Desjardins, J. April 2019</span>: <a href="http://www.colorado.edu/linguistics/workshop-constructional-meaning-and-morphology">What is the Correct Semantics for Morphology? The Case of Frequentative Verbs in Latin</a></li>
+</ul>
 
 <!--
 
