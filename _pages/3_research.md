@@ -6,7 +6,7 @@ img: /img/516996-research.png
 ---
 
 ***
-<br/>
+<sup></sup>
 <h4>Papers</h4>
 
 <ul>
@@ -24,7 +24,7 @@ img: /img/516996-research.png
 </ul>
 
 ***
-<br/>
+<sup></sup>
 <h4>Presentations</h4>
 
 <ul>
@@ -36,7 +36,7 @@ img: /img/516996-research.png
 </ul>
 
 ***
-<br/>
+<sup></sup>
 <h4>Pilot Studies</h4>
 
 <ul>
