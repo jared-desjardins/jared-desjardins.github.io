@@ -8,7 +8,7 @@ img: /img/516996-research.png
 ***
 <sup></sup>
 <h4>Papers</h4>
-
+<sub></sub>
 <ul>
   
   <li><span>Pleiss, M. and J. Desjardins. 2019</span>: <a href="{{ site.baseurl }}{{ post.url }}">The Influence of Anxiety in Graduate Student Peer Video Consultations.</a> <span> <em>In preparation.</em></span></li>
@@ -26,7 +26,7 @@ img: /img/516996-research.png
 ***
 <sup></sup>
 <h4>Presentations</h4>
-
+<sub></sub>
 <ul>
   
   <li><span>Pleiss, M. and J. Desjardins. 2019</span>: <a href="http://podnetwork.org/news-events/annual-conference/">Measuring the Impacts and Experiences of Video Peer Observations</a> <em> POD Network Annual Conference. Pittsburgh PA. November 13 – 17.</em></li>
@@ -38,7 +38,7 @@ img: /img/516996-research.png
 ***
 <sup></sup>
 <h4>Pilot Studies</h4>
-
+<sub></sub>
 <ul>
   
   <li><span>2015</span>: <a>A Pilot Study of an Averaged Perceptron Part-of-Speech Tagger for Latin Raw Text.</a></li>
