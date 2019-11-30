@@ -10,7 +10,8 @@ img: /img/405A8C-teaching.png
 <h4>Instructor of Record</h4>
 <sub></sub>
 <ul>
-  <li><span>LING 4420 Morphology and Syntax</span></li>
+  <li><span>LING/CLAS 1010 The Study of Words (Spring 2020)</span></li>
+  <li><span>LING 4420 Morphology and Syntax (Fall 2019)</span></li>
   <li><span>LING 1020 Languages of the World</span></li>
 </ul>
 
