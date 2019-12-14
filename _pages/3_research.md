@@ -11,7 +11,7 @@ img: /img/516996-research.png
 <sub></sub>
 <ul>
   
-  <li><span>Pleiss, M. and J. Desjardins. 2019 (under review)</span>: <a>The Impact of Anxiety in Directing Graduate Student Peer Video Consultation Programs</a></li>
+  <li><span>Pleiss, M. and J. Desjardins. 2019</span>: <a>The Impact of Anxiety in Directing Graduate Student Peer Video Consultation Programs</a> <em>(under review)</em></li>
   
   <li><span>Desjardins, J. 2019</span>: <a href="http://www.researchgate.net/publication/335682229_Grammar_Syntax_Lexical_Integrity_the_Generative_Enterprise_and_Linguistic_Form_and_Function">Grammar ≠ Syntax: Lexical Integrity, the Generative Enterprise, and Linguistic Form and Function</a></li>
   
