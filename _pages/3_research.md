@@ -12,10 +12,10 @@ img: /img/516996-research.png
 <ul>
   
   <li><span>Desjardins, J. 2020</span>: <a href="http://www.researchgate.net/publication/335682229_Grammar_Syntax_Lexical_Integrity_the_Generative_Enterprise_and_Linguistic_Form_and_Function">Grammar ≠ Syntax: Lexical Integrity, the Generative Enterprise, and Linguistic Form and Function</a><em>(under review)</em></li>
-  
+
+  <li><span>Desjardins, J. 2020</span>: <a href="http://www.researchgate.net/publication/332974827_Lexicalism_Deconstructed_A_Cross-theoretical_Evaluation_of_Lexical_Integrity_and_the_Nature_of_the_Morphology-Syntax_Interface">Lexicalism Deconstructed: A Cross-theoretical Evaluation of Lexical Integrity and the Nature of the Morphology-Syntax Interface</a> <em>(in preparation)</em></li>
+
   <li><span>Pleiss, M. and J. Desjardins. 2019</span>: <a>The Impact of Anxiety in Directing Graduate Student Peer Video Consultation Programs</a> <em>(under review)</em></li>
-  
-  <li><span>Desjardins, J. <em>2020 (in preparation)</em></span>: <a href="http://www.researchgate.net/publication/332974827_Lexicalism_Deconstructed_A_Cross-theoretical_Evaluation_of_Lexical_Integrity_and_the_Nature_of_the_Morphology-Syntax_Interface">Lexicalism Deconstructed: A Cross-theoretical Evaluation of Lexical Integrity and the Nature of the Morphology-Syntax Interface</a></li>
   
   <li><span>Desjardins, J. 2019</span>: <a href="http://www.researchgate.net/publication/333614556_A_Corpus-based_Linguistic_Analysis_of_Latin_Frequentative_Verbs">A Corpus-based Linguistic Analysis of Latin Frequentative Verbs</a></li>
   
