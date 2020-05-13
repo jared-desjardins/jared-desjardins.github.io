@@ -11,10 +11,6 @@ img: /img/516996-research.png
 <sub></sub>
 <ul>
   
-  <li><span>Desjardins, J. 2020</span>: <a href="http://www.researchgate.net/publication/335682229_Grammar_Syntax_Lexical_Integrity_the_Generative_Enterprise_and_Linguistic_Form_and_Function">Grammar ≠ Syntax: Lexical Integrity, the Generative Enterprise, and Linguistic Form and Function</a><em>(under review)</em></li>
-
-  <li><span>Desjardins, J. 2020</span>: <a href="http://www.researchgate.net/publication/332974827_Lexicalism_Deconstructed_A_Cross-theoretical_Evaluation_of_Lexical_Integrity_and_the_Nature_of_the_Morphology-Syntax_Interface">Lexicalism Deconstructed: A Cross-theoretical Evaluation of Lexical Integrity and the Nature of the Morphology-Syntax Interface</a> <em>(in preparation)</em></li>
-  
   <li><span>Desjardins, J. 2019</span>: <a href="http://www.researchgate.net/publication/333614556_A_Corpus-based_Linguistic_Analysis_of_Latin_Frequentative_Verbs">A Corpus-based Linguistic Analysis of Latin Frequentative Verbs</a></li>
   
   <li><span>Desjardins, J. 2012</span>: <a href="http://www.ncurproceedings.org/ojs/index.php/NCUR2012/article/view/181/128">Non-visible Gesturing in Telephone Conversation</a></li>
@@ -35,9 +31,12 @@ img: /img/516996-research.png
 
 ***
 <sup></sup>
-<h4>Pilot Studies</h4>
+<h4>Preprints and Pilot Studies</h4>
 <sub></sub>
-<ul>
+<ul>  
+  <li><span>Desjardins, J. 2020</span>: <a href="http://www.researchgate.net/publication/335682229_Grammar_Syntax_Lexical_Integrity_the_Generative_Enterprise_and_Linguistic_Form_and_Function">Grammar ≠ Syntax: Lexical Integrity, the Generative Enterprise, and Linguistic Form and Function</a><em>(in preparation)</em></li>
+
+  <li><span>Desjardins, J. 2020</span>: <a href="http://www.researchgate.net/publication/332974827_Lexicalism_Deconstructed_A_Cross-theoretical_Evaluation_of_Lexical_Integrity_and_the_Nature_of_the_Morphology-Syntax_Interface">Lexicalism Deconstructed: A Cross-theoretical Evaluation of Lexical Integrity and the Nature of the Morphology-Syntax Interface</a> <em>(in preparation)</em></li>
   
   <li><span>2015</span>: <span>A Pilot Study of an Averaged Perceptron Part-of-Speech Tagger for Latin Raw Text</span></li>
   <li><span>2014</span>: <span>The Role of Phoneme Distribution and Entropy in Predicting Utterance and Morpheme Segmentation</span></li>
