@@ -7,6 +7,7 @@ img: null
 
 ## Guides and Introductions 
 <br>
+
 - [x] A Primer on Neural Network Models for Natural Language Processing [PDF](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 - [x] Machine Learning for Beginners: An Introduction to Neural Networks [LINK](https://victorzhou.com/blog/intro-to-neural-networks/)
 - [ ] An Introduction to Recurrent Neural Networks for Beginners [LINK](https://victorzhou.com/blog/intro-to-rnns/)
@@ -17,11 +18,13 @@ img: null
 
 ## Tools and Downloads
 <br>
+
 - [ ] **pytorch/fairseq**: Facebook AI Research sequence-to-sequence toolkit written in Python [DOWNLOAD](https://github.com/pytorch/fairseq)
 - [ ] **word2vec**: Tool for computing continuous distributed representations of words (Google) [DOWNLOAD](https://code.google.com/archive/p/word2vec/)
 
 ## Miscellanea
 <br>
+
 - [ ] [The UniMorph Project](https://unimorph.org/)
 - [ ] [Universal Dependencies](https://universaldependencies.org/)
 - [ ] [Interset](https://ufal.mff.cuni.cz/interset)
