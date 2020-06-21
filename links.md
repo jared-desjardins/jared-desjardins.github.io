@@ -8,13 +8,13 @@ img: null
 ### Guides and Introductions 
 <br>
 
-- [x] A Primer on Neural Network Models for Natural Language Processing [PDF](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
-- [x] Machine Learning for Beginners: An Introduction to Neural Networks [LINK](https://victorzhou.com/blog/intro-to-neural-networks/)
-- [ ] An Introduction to Recurrent Neural Networks for Beginners [LINK](https://victorzhou.com/blog/intro-to-rnns/)
-- [x] Visualizing A Neural Machine Translation Model (Seq2seq Models With Attention) [LINK](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
-- [x] The Illustrated Transformer [LINK](https://jalammar.github.io/illustrated-transformer/)
-- [ ] Attention Is All You Need [PDF](https://arxiv.org/abs/1706.03762)
-- [ ] The Annotated Transformer [LINK](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [x] A Primer on Neural Network Models for Natural Language Processing [**pdf**](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+- [x] Machine Learning for Beginners: An Introduction to Neural Networks [**link**](https://victorzhou.com/blog/intro-to-neural-networks/)
+- [ ] An Introduction to Recurrent Neural Networks for Beginners [**link**](https://victorzhou.com/blog/intro-to-rnns/)
+- [x] Visualizing A Neural Machine Translation Model (Seq2seq Models With Attention) [**link**](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+- [x] The Illustrated Transformer [**link**](https://jalammar.github.io/illustrated-transformer/)
+- [ ] Attention Is All You Need [**pdf**](https://arxiv.org/abs/1706.03762)
+- [ ] The Annotated Transformer [**link**](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
 <br>
 
@@ -29,11 +29,11 @@ img: null
 ### Miscellanea
 <br>
 
-- [ ] [The UniMorph Project](https://unimorph.org/)
-- [ ] [Universal Dependencies](https://universaldependencies.org/)
-- [ ] [Interset](https://ufal.mff.cuni.cz/interset)
-- [ ] [The Latin WordNet](https://latinwordnet.exeter.ac.uk/)
-- [ ] [The PROIEL Treebank](https://proiel.github.io/)
-- [ ] [Word Formation Latin (WFL)*](https://progetti.unicatt.it/progetti-milan-wfl-home)
-- [ ] [LEMLAT 3.0*](https://www.lemlat3.eu/)
-- [ ] [The Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) and [Perseus Treebank Data](https://github.com/PerseusDL/treebank_data)
+- [ ] [**The UniMorph Project**](https://unimorph.org/)
+- [ ] [**Universal Dependencies**](https://universaldependencies.org/)
+- [ ] [**Interset**](https://ufal.mff.cuni.cz/interset)
+- [ ] [**Latin WordNet**](https://latinwordnet.exeter.ac.uk/)
+- [ ] [**PROIEL Treebank**](https://proiel.github.io/)
+- [ ] [**Word Formation Latin (WFL)^**](https://progetti.unicatt.it/progetti-milan-wfl-home)
+- [ ] [**LEMLAT 3.0^**](https://www.lemlat3.eu/)
+- [ ] [**Perseus Digital Library**](https://www.perseus.tufts.edu/hopper/) and [**Perseus Treebank Data**](https://github.com/PerseusDL/treebank_data)
