@@ -8,13 +8,13 @@ img: null
 ### Guides and Introductions 
 <br>
 
-[x] A Primer on Neural Network Models for Natural Language Processing [**pdf**](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
-[x] Machine Learning for Beginners: An Introduction to Neural Networks [**link**](https://victorzhou.com/blog/intro-to-neural-networks/)
-[ ] An Introduction to Recurrent Neural Networks for Beginners [**link**](https://victorzhou.com/blog/intro-to-rnns/)
-[x] Visualizing A Neural Machine Translation Model (Seq2seq Models With Attention) [**link**](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
-[x] The Illustrated Transformer [**link**](https://jalammar.github.io/illustrated-transformer/)
-[ ] Attention Is All You Need [**pdf**](https://arxiv.org/abs/1706.03762)
-[ ] The Annotated Transformer [**link**](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [x] A Primer on Neural Network Models for Natural Language Processing [**pdf**](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+- [x] Machine Learning for Beginners: An Introduction to Neural Networks [**link**](https://victorzhou.com/blog/intro-to-neural-networks/)
+- [ ] An Introduction to Recurrent Neural Networks for Beginners [**link**](https://victorzhou.com/blog/intro-to-rnns/)
+- [x] Visualizing A Neural Machine Translation Model (Seq2seq Models With Attention) [**link**](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
+- [x] The Illustrated Transformer [**link**](https://jalammar.github.io/illustrated-transformer/)
+- [ ] Attention Is All You Need [**pdf**](https://arxiv.org/abs/1706.03762)
+- [ ] The Annotated Transformer [**link**](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
 <br>
 
