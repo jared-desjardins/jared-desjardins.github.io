@@ -11,17 +11,19 @@ img: null
 - [x] A Primer on Neural Network Models for Natural Language Processing [PDF](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 - [x] Machine Learning for Beginners: An Introduction to Neural Networks [LINK](https://victorzhou.com/blog/intro-to-neural-networks/)
 - [ ] An Introduction to Recurrent Neural Networks for Beginners [LINK](https://victorzhou.com/blog/intro-to-rnns/)
-- [x] Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)
+- [x] Visualizing A Neural Machine Translation Model (Seq2seq Models With Attention) [LINK](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/)
 - [x] The Illustrated Transformer [LINK](https://jalammar.github.io/illustrated-transformer/)
 - [ ] Attention Is All You Need [PDF](https://arxiv.org/abs/1706.03762)
 - [ ] The Annotated Transformer [LINK](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
+<br>
 ### Tools and Downloads
 <br>
 
-- [ ] **pytorch/fairseq**: Facebook AI Research sequence-to-sequence toolkit written in Python [DOWNLOAD](https://github.com/pytorch/fairseq)
-- [ ] **word2vec**: Tool for computing continuous distributed representations of words (Google) [DOWNLOAD](https://code.google.com/archive/p/word2vec/)
+- [ ] [**pytorch/fairseq**](https://github.com/pytorch/fairseq): Facebook AI Research sequence-to-sequence toolkit written in Python
+- [ ] [**word2vec**](https://code.google.com/archive/p/word2vec/): Tool for computing continuous distributed representations of words (Google)
 
+<br>
 ### Miscellanea
 <br>
 
