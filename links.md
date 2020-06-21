@@ -5,23 +5,29 @@ description: null
 img: null
 ---
 
-***
-<sup></sup>
-<h4>Guides</h4>
-<sub></sub>
-<ul>
-  <li><a href="https://victorzhou.com/blog/intro-to-neural-networks/">Machine Learning for Beginners: An Introduction to Neural Networks - A simple explanation of how they work and how to implement one from scratch in Python</a></li>
-  <li><a href="https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/">Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)</a></li>
-  <li><a href="http://jalammar.github.io/illustrated-transformer/">The Illustrated Transformer</a></li>
-  <li><a href="http://nlp.seas.harvard.edu/2018/04/03/attention.html">The Annotated Transformer</a></li>
-  <li><a href="https://medium.com/deeper-learning/glossary-of-deep-learning-word-embedding-f90c3cec34ca">Glossary of Deep Learning: Word Embedding</a></li>
-</ul>
+---
+## Guides and Introductions 
 
-***
-<sup></sup>
-<h4>Tools</h4>
-<sub></sub>
-<ul>
-  <li><a href="https://github.com/pytorch/fairseq">pytorch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python</a></li>
-  <li><a href="https://code.google.com/archive/p/word2vec/">word2vec: Tool for computing continuous distributed representations of words</a></li>
-</ul>
+- [x] A Primer on Neural Network Models for Natural Language Processing [PDF](https://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+- [x] Machine Learning for Beginners: An Introduction to Neural Networks [LINK](https://victorzhou.com/blog/intro-to-neural-networks/)
+- [ ] An Introduction to Recurrent Neural Networks for Beginners [LINK](https://victorzhou.com/blog/intro-to-rnns/)
+- [x] Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)
+- [x] The Illustrated Transformer [LINK](https://jalammar.github.io/illustrated-transformer/)
+- [ ] Attention Is All You Need [PDF](https://arxiv.org/abs/1706.03762)
+- [ ] The Annotated Transformer [LINK](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
+--
+## Tools and Downloads
+- [ ] pytorch/fairseq: Facebook AI Research sequence-to-sequence toolkit written in Python [DOWNLOAD](https://github.com/pytorch/fairseq)
+- [ ] word2vec: Tool for computing continuous distributed representations of words (Google) [DOWNLOAD](https://code.google.com/archive/p/word2vec/)
+
+--
+## Miscellanea
+- [ ] [The UniMorph Project](https://unimorph.org/)
+- [ ] [Universal Dependencies](https://universaldependencies.org/)
+- [ ] [Interset](https://ufal.mff.cuni.cz/interset)
+- [ ] [The Latin WordNet](https://latinwordnet.exeter.ac.uk/)
+- [ ] [The PROIEL Treebank](https://proiel.github.io/)
+- [ ] [Word Formation Latin (WFL)*](https://progetti.unicatt.it/progetti-milan-wfl-home)
+- [ ] [LEMLAT 3.0*](https://www.lemlat3.eu/)
+- [ ] [The Perseus Digital Library](https://www.perseus.tufts.edu/hopper/) and [Perseus Treebank Data](https://github.com/PerseusDL/treebank_data)
