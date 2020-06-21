@@ -16,12 +16,12 @@ img: null
 - [ ] Attention Is All You Need [PDF](https://arxiv.org/abs/1706.03762)
 - [ ] The Annotated Transformer [LINK](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
---
+---
 ## Tools and Downloads
 - [ ] pytorch/fairseq: Facebook AI Research sequence-to-sequence toolkit written in Python [DOWNLOAD](https://github.com/pytorch/fairseq)
 - [ ] word2vec: Tool for computing continuous distributed representations of words (Google) [DOWNLOAD](https://code.google.com/archive/p/word2vec/)
 
---
+---
 ## Miscellanea
 - [ ] [The UniMorph Project](https://unimorph.org/)
 - [ ] [Universal Dependencies](https://universaldependencies.org/)
