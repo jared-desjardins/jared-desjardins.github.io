@@ -45,5 +45,5 @@ img: /img/516996-research.png
 
 ***
 <sup></sup>
-<a href="https://jared-desjardins.github.io/links">potentially useful links...</a>
+<a href="https://jared-desjardins.github.io/links">Potentially useful links...</a>
 <sub></sub>
