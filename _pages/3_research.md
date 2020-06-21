@@ -42,3 +42,8 @@ img: /img/516996-research.png
   <li><span>Desjardins, J. May 2013</span>: <span>Frequency and Semantic Change</span></li>
   
 </ul>
+
+***
+<sup></sup>
+<a href="https://jared-desjardins.github.io/links">potentially useful links...</a>
+<sub></sub>
