@@ -17,6 +17,7 @@ img: null
 - [ ] The Annotated Transformer [LINK](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
 <br>
+
 ### Tools and Downloads
 <br>
 
@@ -24,6 +25,7 @@ img: null
 - [ ] [**word2vec**](https://code.google.com/archive/p/word2vec/): Tool for computing continuous distributed representations of words (Google)
 
 <br>
+
 ### Miscellanea
 <br>
 
