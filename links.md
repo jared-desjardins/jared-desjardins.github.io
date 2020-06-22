@@ -41,7 +41,13 @@ img: null
 
 <br>
 
-### Papers
+### Papers of Interest
 <br>
 
-- [ ] Elman, J. 1990. *Finding Structure in Time*. [**pdf**](https://crl.ucsd.edu/~elman/Papers/fsit.pdf)
+- [x] Silfverberg, M. & M. Hulden. 2018. *An Encoder-Decoder Approach to the Paradigm Cell Filling Problem*. [**pdf**](https://www.aclweb.org/anthology/D18-1315/)
+- [x] Kirov, C. et al. 2018. *UniMorph 2.0: Universal Morphology*. [**pdf**](https://www.aclweb.org/anthology/L18-1293/)
+- [x] Sylak-Glassman, J. et al. 2015. *A Language-Independent Feature Schema for Inflectional Morphology*. [**pdf**](https://www.aclweb.org/anthology/P15-2111/)
+- [x] Ackerman, F. et al. 2009. *Parts and Wholes: Implicative Patterns in Inflectional Paradigms*. [**link**](https://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199547548.001.0001/acprof-9780199547548-chapter-3)
+- [ ] Karttunen, L. 2003. *Computing with Realizational Morphology*. [**pdf**](https://web.stanford.edu/~laurik/publications/cicling-2003/realmorph.pdf)
+- [x] Elman, J. 1990. *Finding Structure in Time*. [**pdf**](https://crl.ucsd.edu/~elman/Papers/fsit.pdf)
+
