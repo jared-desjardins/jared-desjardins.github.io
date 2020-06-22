@@ -27,7 +27,7 @@ img: null
 
 <br>
 
-### Miscellanea
+### Data, etc.
 <br>
 
 - [ ] [**The UniMorph Project**](https://unimorph.org/)
@@ -38,3 +38,10 @@ img: null
 - [ ] [**Word Formation Latin (WFL)^**](https://progetti.unicatt.it/progetti-milan-wfl-home)
 - [ ] [**LEMLAT 3.0^**](https://www.lemlat3.eu/)
 - [ ] [**Perseus Digital Library**](https://www.perseus.tufts.edu/hopper/) and [**Perseus Treebank Data**](https://github.com/PerseusDL/treebank_data)
+
+<br>
+
+### Papers
+<br>
+
+- [ ] Elman, J. 1990. *Finding Structure in Time*. [**pdf**](https://crl.ucsd.edu/~elman/Papers/fsit.pdf)
