@@ -23,6 +23,7 @@ img: null
 
 - [ ] [**pytorch/fairseq**](https://github.com/pytorch/fairseq): Facebook AI Research sequence-to-sequence toolkit written in Python
 - [ ] [**word2vec**](https://code.google.com/archive/p/word2vec/): Tool for computing continuous distributed representations of words (Google)
+- [ ] [**NumPy**](https://numpy.org/): Python package for scientific computing
 
 <br>
 
