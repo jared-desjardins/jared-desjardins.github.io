@@ -24,8 +24,8 @@ img: null
 - [ ] [**pytorch/fairseq**](https://github.com/pytorch/fairseq): Facebook AI Research sequence-to-sequence toolkit written in Python
     - [ ] [Ott et al. 2019. *FAIRSEQ: A Fast, Extensible Toolkit for Sequence Modeling*](https://arxiv.org/pdf/1904.01038.pdf)
     - [ ] [**Full Documentation**:](https://fairseq.readthedocs.io/en/latest/)
-    - [ ] [**Demo**:](https://www.youtube.com/watch?v=OtgDdWtHvto&feature=emb_title)
-    - [ ] [**Tutorial**:](https://www.folio3.ai/blog/fairseq/amp/)
+    - [ ] [**A Demo**](https://www.youtube.com/watch?v=OtgDdWtHvto&feature=emb_title)
+    - [ ] [**A Tutorial**](https://www.folio3.ai/blog/fairseq/amp/)
 - [ ] [**word2vec**](https://code.google.com/archive/p/word2vec/): Tool for computing continuous distributed representations of words (Google)
 - [ ] [**NumPy**](https://numpy.org/): Python package for scientific computing
 
