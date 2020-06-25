@@ -33,7 +33,7 @@ img: null
 ### Data, etc.
 <br>
 
-- [ ] [**The UniMorph Project**](https://unimorph.org/)
+- [x] [**The UniMorph Project**](https://unimorph.org/)
 - [ ] [**Universal Dependencies**](https://universaldependencies.org/)
 - [ ] [**Interset**](https://ufal.mff.cuni.cz/interset)
 - [ ] [**Latin WordNet**](https://latinwordnet.exeter.ac.uk/)
