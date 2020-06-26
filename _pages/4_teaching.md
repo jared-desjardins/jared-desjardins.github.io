@@ -45,3 +45,13 @@ img: /img/405A8C-teaching.png
   <li><span>LING 7800/CSCI 7000 Computational Lexical Semantics, Dr. Martha Palmer (Fall 2014)</span></li>
   <li><span>LING 5462 Field Research in Spoken Language, Dr. Polly Szatrowski (Spring 2012, University of Minnesota)</span></li>
 </ul>
+
+***
+<sup></sup>
+<h4>Private Tutor</h4>
+<sub></sub>
+<ul>
+  <li><span>LING 3430 Semantics [undergraduate] (Spring 2019)</span></li>
+  <li><span>LING 1020 Languages of the World (Fall 2018)</span></li>
+  <li><span>LING 5430 Semantics and Pragmatics [graduate] (Spring 2018)</span></li>
+</ul>
