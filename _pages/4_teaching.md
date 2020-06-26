@@ -9,7 +9,7 @@ img: /img/405A8C-teaching.png
 <sup></sup>
 <h4>Continuing Education, University of Colorado</h4>
 <sub></sub>
-<p>Instructor of Record</p>
+<span>Instructor of Record</span>
 <ul>
   <li><span>LING/CLAS 1010 The Study of Words (Spring 2020, Fall 2020)</span></li>
   <li><span>LING 4420 Morphology and Syntax (Spring 2018 - Fall 2019)</span></li>
