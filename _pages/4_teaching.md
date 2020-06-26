@@ -7,9 +7,8 @@ img: /img/405A8C-teaching.png
 
 ***
 <sup></sup>
-<h4>Continuing Education, University of Colorado</h4>
+<h4>Instructor of Record</h4>
 <sub></sub>
-<span>Instructor of Record</span>
 <ul>
   <li><span>LING/CLAS 1010 The Study of Words (Spring 2020, Fall 2020)</span></li>
   <li><span>LING 4420 Morphology and Syntax (Spring 2018 - Fall 2019)</span></li>
@@ -18,7 +17,7 @@ img: /img/405A8C-teaching.png
 
 ***
 <sup></sup>
-<h4>Department of Linguistics, University of Colorado</h4>
+<h4>Teaching Assistant</h4>
 <sub></sub>
 <ul>
   <li><span>LING 1020 Languages of the World</span></li>
@@ -28,9 +27,8 @@ img: /img/405A8C-teaching.png
 
 ***
 <sup></sup>
-<h4>Institute of Linguistics, University of Minnesota</h4>
+<h4>Grader</h4>
 <sub></sub>
-
 <ul>
   <li><span>LING 5030 Semantics and Pragmatics</span></li>
   <li><span>LING 7800/CSCI 7000 Computational Lexical Semantics</span></li>
