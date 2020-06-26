@@ -31,7 +31,7 @@ img: /img/516996-research.png
 
 ***
 <sup></sup>
-<h4>Preprints, Pilot Studies, etc.</h4>
+<h4>Preprints, Pilot Studies, Other</h4>
 <sub></sub>
 <ul>  
   <li><span>Desjardins, J. March 2020</span>: <a href="http://www.researchgate.net/publication/332974827_Lexicalism_Deconstructed_A_Cross-theoretical_Evaluation_of_Lexical_Integrity_and_the_Nature_of_the_Morphology-Syntax_Interface">Lexicalism Deconstructed: A Cross-theoretical Evaluation of Lexical Integrity and the Nature of the Morphology-Syntax Interface</a> <em>(in preparation)</em></li>
