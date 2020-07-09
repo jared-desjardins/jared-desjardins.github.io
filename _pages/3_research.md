@@ -34,7 +34,7 @@ img: /img/516996-research.png
 <h4>Preprints, Pilot Studies, Other</h4>
 <sub></sub>
 <ul>  
-  <li><span>Pleiss, M. and J. Desjardins. 2020</span>: <span>The Impact of Video on Graduate Student Peer Consultations</span> <em>(to appear)</em></li>
+  <li><span>Pleiss, M. and J. Desjardins. July 2020</span>: <span>The Impact of Video on Graduate Student Peer Consultations</span> <em>(to appear)</em></li>
   <li><span>Desjardins, J. May 2020</span>: <a href="http://www.researchgate.net/publication/332974827_Lexicalism_Deconstructed_A_Cross-theoretical_Evaluation_of_Lexical_Integrity_and_the_Nature_of_the_Morphology-Syntax_Interface">Lexicalism Deconstructed: A Cross-theoretical Evaluation of Lexical Integrity and the Nature of the Morphology-Syntax Interface</a> <em>(in preparation)</em></li>
   <li><span>Desjardins, J. May 2020</span>: <a href="http://www.researchgate.net/publication/335682229_Grammar_Syntax_Lexical_Integrity_the_Generative_Enterprise_and_Linguistic_Form_and_Function">Grammar ≠ Syntax: Lexical Integrity, Typology, and Universal Grammar</a> <em>(in preparation)</em></li>
   <li><span>Desjardins, J. May 2019</span>: <a href="https://jared-desjardins.github.io/LI/">A Cross-theoretical and Cross-linguistic Survey of Lexical Integrity and the Morphology-Syntax Interface</a> <em>(web version)</em></li>
