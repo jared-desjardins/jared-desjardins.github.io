@@ -51,6 +51,7 @@ img: /img/405A8C-teaching.png
 <h4>Private Tutor</h4>
 <sub></sub>
 <ul>
+  <li><span>LING 4420 Morphology and Syntax (Fall 2020)</span></li>
   <li><span>LING 3430 Semantics [undergraduate] (Spring 2019)</span></li>
   <li><span>LING 1020 Languages of the World (Fall 2018)</span></li>
   <li><span>LING 5430 Semantics and Pragmatics [graduate] (Spring 2018)</span></li>
