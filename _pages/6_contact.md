@@ -21,10 +21,6 @@ img: /img/314469-contact.png
 </span>
 
 <span class="contacticon center">
-	<a href="http://scholar.colorado.edu/cril/" title="Colorado Research in Linguistics (CRIL)" target="_blank"><img src="/img/CRIL-thumb.png" alt="Colorado Research in Linguistics (CRIL)" style="width:175px;height:175px;"/></a>
-</span>
-
-<span class="contacticon center">
 	<a href="http://orcid.org/0000-0002-1462-4928" title="ORCID | 0000-0002-1462-4928" target="_blank"><img src="/img/orcid.png" alt="ORCID | 0000-0002-1462-4928" style="width:70px;height:70px;"/></a>
 </span>
 
