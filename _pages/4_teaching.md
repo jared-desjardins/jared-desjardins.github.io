@@ -30,6 +30,7 @@ img: /img/405A8C-teaching.png
 <h4>Grader</h4>
 <sub></sub>
 <ul>
+  <li><span>LING 6450 Syntactic Analysis</span></li>
   <li><span>LING 5030 Semantics and Pragmatics</span></li>
   <li><span>LING 7800/CSCI 7000 Computational Lexical Semantics</span></li>
 </ul>
