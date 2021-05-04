@@ -20,7 +20,7 @@ img: /img/405A8C-teaching.png
 <h4>Teaching Assistant</h4>
 <sub></sub>
 <ul>
-  <li><span>LING 1020 Languages of the World</span></li>
+  <li><span>LING 1020 <strong>Languages of the World</strong></span></li>
   <li><span>LING/CLAS 1010 The Study of Words</span></li>
   <li><span>LING 1000 Language in US Society</span></li>
 </ul>
