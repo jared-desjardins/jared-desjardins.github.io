@@ -10,9 +10,10 @@ img: /img/405A8C-teaching.png
 <h4>Instructor of Record</h4>
 <sub></sub>
 <ul>
-  <li><a href="http://ce.colorado.edu/courses/the-study-of-words-ling-1010/#">LING/CLAS 1010 <strong>The Study of Words</strong></a> <span>(Spring 2020, 2021; Fall 2021)</span></li>
   <li><span>LING 4420 <strong>Morphology and Syntax</strong> (Spring 2018 - Fall 2019)</span></li>
+  <li><span>WRTG 1150 <strong>First Year Writing and</strong> (Fall 2021)</span></li>
   <li><span>LING 1020 <strong>Languages of the World</strong> (Spring 2015 - Spring 2017, Summer 2019)</span></li>
+  <li><span>LING/CLAS 1010 <strong>The Study of Words</strong> (Spring 2020, 2021)</span></li>
 </ul>
 
 ***
