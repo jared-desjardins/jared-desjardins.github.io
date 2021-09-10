@@ -11,7 +11,7 @@ img: /img/405A8C-teaching.png
 <sub></sub>
 <ul>
   <li><span>LING 4420 <strong>Morphology and Syntax</strong> (Spring 2018 - Fall 2019)</span></li>
-  <li><span>WRTG 1150 <strong>First Year Writing and</strong> (Fall 2021)</span></li>
+  <li><span>WRTG 1150 <strong>First Year Writing and Rhetoric</strong> (Fall 2021)</span></li>
   <li><span>LING 1020 <strong>Languages of the World</strong> (Spring 2015 - Spring 2017, Summer 2019)</span></li>
   <li><span>LING/CLAS 1010 <strong>The Study of Words</strong> (Spring 2020, 2021)</span></li>
 </ul>
