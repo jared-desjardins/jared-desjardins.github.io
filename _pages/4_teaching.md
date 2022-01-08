@@ -24,6 +24,7 @@ img: /img/405A8C-teaching.png
   <li><span>LING 1020 <strong>Languages of the World</strong></span></li>
   <li><span>LING/CLAS 1010 <strong>The Study of Words</strong></span></li>
   <li><span>LING 1000 <strong>Language in US Society</strong></span></li>
+  <li><span>SOCY 4000/WGST 4010 <strong>Gender, Genocide and Mass Trauma</strong> (Spring 2022)</span></li>
 </ul>
 
 ***
